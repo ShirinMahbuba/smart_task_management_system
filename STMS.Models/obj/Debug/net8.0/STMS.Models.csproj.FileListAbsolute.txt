@@ -1,0 +1,11 @@
+D:\Downloads\STMS_Final\STMS.Models\bin\Debug\net8.0\STMS.Models.deps.json
+D:\Downloads\STMS_Final\STMS.Models\bin\Debug\net8.0\STMS.Models.dll
+D:\Downloads\STMS_Final\STMS.Models\bin\Debug\net8.0\STMS.Models.pdb
+D:\Downloads\STMS_Final\STMS.Models\obj\Debug\net8.0\STMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\STMS_Final\STMS.Models\obj\Debug\net8.0\STMS.Models.AssemblyInfoInputs.cache
+D:\Downloads\STMS_Final\STMS.Models\obj\Debug\net8.0\STMS.Models.AssemblyInfo.cs
+D:\Downloads\STMS_Final\STMS.Models\obj\Debug\net8.0\STMS.Models.csproj.CoreCompileInputs.cache
+D:\Downloads\STMS_Final\STMS.Models\obj\Debug\net8.0\STMS.Models.dll
+D:\Downloads\STMS_Final\STMS.Models\obj\Debug\net8.0\refint\STMS.Models.dll
+D:\Downloads\STMS_Final\STMS.Models\obj\Debug\net8.0\STMS.Models.pdb
+D:\Downloads\STMS_Final\STMS.Models\obj\Debug\net8.0\ref\STMS.Models.dll

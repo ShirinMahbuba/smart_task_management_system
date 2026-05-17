@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="STMS.Entities/STMS.Entities.csproj" />
+  <Project Path="STMS.Shared/STMS.Shared.csproj" />
+  <Project Path="STMS.Data/STMS.Data.csproj" />
+  <Project Path="STMS.Models/STMS.Models.csproj" />
+  <Project Path="STMS.Repos/STMS.Repos.csproj" />
+  <Project Path="STMS.Web/STMS.Web.csproj" />
+</Solution>

@@ -1,0 +1,52 @@
+@model STMS.Models.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row pt-5">
+    <div class="col-3"></div>
+    <div class="col-6 border p-4 rounded shadow">
+        <h2 class="text-center mb-4">Create Account</h2>
+        <hr />
+        @Html.Partial("_Message")
+        <form asp-action="Register" method="post">
+            <div class="row">
+                <label asp-for="Name" class="form-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="row mt-3">
+                <label asp-for="Email" class="form-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="row mt-3">
+                <label asp-for="Password" class="form-label"></label>
+                <input asp-for="Password" class="form-control" type="password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="row mt-3">
+                <label asp-for="ConfirmPassword" class="form-label"></label>
+                <input asp-for="ConfirmPassword" class="form-control" type="password" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <div class="row mt-3">
+                <div class="col-6">
+                    <button type="submit" class="btn btn-success">
+                        <i class="bi bi-person-plus-fill"></i>&nbsp;Register
+                    </button>
+                    &nbsp;
+                    <a asp-action="Login" class="btn btn-outline-secondary">
+                        <i class="bi bi-arrow-left-circle-fill"></i>&nbsp;Back To Login
+                    </a>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="col-3"></div>
+</div>
+
+@section Scripts {
+    @Html.Partial("_ValidationScriptsPartial")
+}

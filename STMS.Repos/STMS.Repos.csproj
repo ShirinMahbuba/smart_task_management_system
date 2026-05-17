@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\STMS.Data\STMS.Data.csproj" />
+    <ProjectReference Include="..\STMS.Entities\STMS.Entities.csproj" />
+    <ProjectReference Include="..\STMS.Models\STMS.Models.csproj" />
+    <ProjectReference Include="..\STMS.Shared\STMS.Shared.csproj" />
+  </ItemGroup>
+</Project>

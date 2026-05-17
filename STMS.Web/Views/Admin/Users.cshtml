@@ -1,0 +1,70 @@
+@model List<STMS.Entities.User>
+
+@Html.Partial("_Message")
+
+<div class="row pt-4">
+    <div class="col-6">
+        <h2 class="text-primary">
+            <i class="bi bi-people me-2"></i>Manage Users
+        </h2>
+    </div>
+    <div class="col-6 text-end">
+        <a class="btn btn-warning" asp-action="Detail" asp-controller="Admin" asp-route-dataId="-1">
+            <i class="bi bi-plus-circle"></i>&nbsp; Add New User
+        </a>
+    </div>
+</div>
+
+<hr />
+
+<div class="row pt-2">
+    <div class="col-12">
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr class="table-primary">
+                    <th>Ref</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Role</th>
+                    <th>Is Active</th>
+                    <th class="text-center">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td width="5%">@item.ID</td>
+                        <td width="20%">@item.Name</td>
+                        <td width="25%">@item.Email</td>
+                        <td width="15%">
+                            <span class="badge
+                                @(item.Role == "Admin"    ? "bg-danger"  :
+                                  item.Role == "Manager"  ? "bg-warning text-dark" :
+                                  item.Role == "Employee" ? "bg-primary" : "bg-secondary")">
+                                @item.Role
+                            </span>
+                        </td>
+                        <td width="10%">
+                            @if (item.IsActive)
+                            { <span class="badge bg-success">Active</span> }
+                            else
+                            { <span class="badge bg-secondary">Inactive</span> }
+                        </td>
+                        <td class="text-center" width="25%">
+                            <div class="btn-group" role="group">
+                                <a asp-action="Detail" asp-route-dataId="@item.ID" class="btn btn-primary mx-1">
+                                    <i class="bi bi-pencil-square"></i> Edit
+                                </a>
+                                <a asp-action="Delete" asp-route-dataId="@item.ID" class="btn btn-danger mx-1"
+                                   onclick="return confirm('Delete User#@item.ID (@item.Name)?')">
+                                    <i class="bi bi-trash-fill"></i> Delete
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

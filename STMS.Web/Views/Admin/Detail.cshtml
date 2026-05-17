@@ -1,0 +1,76 @@
+@model STMS.Entities.User
+
+@Html.Partial("_Message")
+
+<div class="container border mt-4 p-4">
+    <div class="row">
+        <div class="col-12">
+            @if (Model.ID == 0)
+            { <h2>Add New User</h2> }
+            else
+            { <h2>User# @Model.ID</h2> }
+        </div>
+        <hr />
+    </div>
+
+    <form method="post" action="#">
+        <input type="hidden" asp-for="ID" />
+
+        <div class="row">
+            <label asp-for="Name" class="form-label"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="row mt-3">
+            <label asp-for="Email" class="form-label"></label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <div class="row mt-3">
+            <label asp-for="Password" class="form-label">
+                Password
+                @if (Model.ID != 0)
+                { <small class="text-muted">(leave blank to keep existing)</small> }
+            </label>
+            <input asp-for="Password" class="form-control" type="password" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+
+        <div class="row mt-3">
+            <label asp-for="Role" class="form-label"></label>
+            <select asp-for="Role" class="form-select">
+                <option value="">-- Select Role --</option>
+                <option value="Admin">Admin</option>
+                <option value="Manager">Manager</option>
+                <option value="Employee">Employee</option>
+                <option value="Viewer">Viewer</option>
+            </select>
+            <span asp-validation-for="Role" class="text-danger"></span>
+        </div>
+
+        <div class="row mb-3">
+            <div class="form-check form-switch mt-3">
+                <input class="form-check-input" type="checkbox" asp-for="IsActive">
+                <label class="form-check-label" asp-for="IsActive">Is Active</label>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-6">
+                <button type="submit" class="btn btn-primary">
+                    <i class="bi bi-floppy2"></i>&nbsp;Submit
+                </button>
+                &nbsp;
+                <a asp-action="Users" asp-controller="Admin" class="btn btn-outline-secondary">
+                    <i class="bi bi-arrow-left-circle-fill"></i>&nbsp;Back To List
+                </a>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @Html.Partial("_ValidationScriptsPartial")
+}
