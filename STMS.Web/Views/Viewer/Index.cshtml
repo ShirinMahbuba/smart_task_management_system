@@ -1,0 +1,127 @@
+@model ViewerDashboardModel
+@{
+    ViewData["Title"] = "Viewer Dashboard";
+}
+
+@Html.Partial("_Message")
+
+<div class="d-flex justify-content-between align-items-center pt-3">
+    <div>
+        <h2 class="text-primary mb-1"><i class="bi bi-eye me-2"></i>Viewer Dashboard</h2>
+        <p class="text-muted mb-0">Read-only project progress and team collaboration summary.</p>
+    </div>
+    <a class="btn btn-outline-primary" asp-action="Reports">
+        <i class="bi bi-graph-up me-1"></i>Reports
+    </a>
+</div>
+<hr />
+
+<div class="row g-3">
+    <div class="col-md-2"><div class="card border-primary text-center p-3"><span class="text-muted">Projects</span><h2 class="text-primary">@Model.TotalProjects</h2></div></div>
+    <div class="col-md-2"><div class="card border-dark text-center p-3"><span class="text-muted">Tasks</span><h2>@Model.TotalTasks</h2></div></div>
+    <div class="col-md-2"><div class="card border-warning text-center p-3"><span class="text-muted">Pending</span><h2 class="text-warning">@Model.PendingTasks</h2></div></div>
+    <div class="col-md-2"><div class="card border-info text-center p-3"><span class="text-muted">In Progress</span><h2 class="text-info">@Model.InProgressTasks</h2></div></div>
+    <div class="col-md-2"><div class="card border-success text-center p-3"><span class="text-muted">Completed</span><h2 class="text-success">@Model.CompletedTasks</h2></div></div>
+    <div class="col-md-2"><div class="card border-danger text-center p-3"><span class="text-muted">Overdue</span><h2 class="text-danger">@Model.OverdueTasks</h2></div></div>
+</div>
+
+<div class="row g-3 mt-2">
+    <div class="col-lg-7">
+        <div class="card h-100">
+            <div class="card-header bg-primary text-white fw-bold">
+                <i class="bi bi-kanban me-1"></i>Project Progress
+            </div>
+            <div class="card-body p-0">
+                <table class="table table-hover mb-0">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Project</th>
+                            <th>Tasks</th>
+                            <th>Progress</th>
+                            <th>Timeline</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var project in Model.Projects)
+                        {
+                            <tr>
+                                <td>
+                                    <strong>@project.ProjectName</strong>
+                                    <div class="small text-muted">@project.Description</div>
+                                </td>
+                                <td>@project.CompletedTasks / @project.TotalTasks</td>
+                                <td style="min-width:180px">
+                                    <div class="progress" style="height: 8px;">
+                                        <div class="progress-bar bg-success" style="width:@project.CompletionPercent%"></div>
+                                    </div>
+                                    <span class="small text-muted">@project.CompletionPercent%</span>
+                                </td>
+                                <td class="small text-muted">
+                                    @project.StartDate?.ToString("dd MMM yyyy") - @project.EndDate?.ToString("dd MMM yyyy")
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-5">
+        <div class="card h-100">
+            <div class="card-header bg-dark text-white d-flex justify-content-between">
+                <strong><i class="bi bi-chat-square-text me-1"></i>Recent Posts</strong>
+                <a class="text-white small" asp-action="Posts">View board</a>
+            </div>
+            <div class="list-group list-group-flush">
+                @foreach (var post in Model.RecentPosts)
+                {
+                    <a class="list-group-item list-group-item-action" asp-action="Posts">
+                        <div class="d-flex justify-content-between">
+                            <strong>@post.Title</strong>
+                            <small class="text-muted">@post.UpdatedAt.ToString("dd MMM")</small>
+                        </div>
+                        <div class="small text-muted">By @post.UserName</div>
+                    </a>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card mt-3">
+    <div class="card-header bg-warning fw-bold">
+        <i class="bi bi-list-task me-1"></i>Recently Updated Tasks
+    </div>
+    <div class="card-body p-0">
+        <table class="table table-hover mb-0">
+            <thead class="table-light">
+                <tr>
+                    <th>Task</th>
+                    <th>Project</th>
+                    <th>Status</th>
+                    <th>Priority</th>
+                    <th>Due Date</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var task in Model.RecentTasks)
+                {
+                    <tr>
+                        <td>@task.Title</td>
+                        <td>@task.ProjectName</td>
+                        <td><span class="badge bg-secondary">@task.Status</span></td>
+                        <td><span class="badge bg-info text-dark">@task.Priority</span></td>
+                        <td>@task.DueDate?.ToString("dd MMM yyyy")</td>
+                        <td class="text-end">
+                            <a class="btn btn-sm btn-outline-primary" asp-action="TaskDetails" asp-route-id="@task.ID">
+                                <i class="bi bi-eye"></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
