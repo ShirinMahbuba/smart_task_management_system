@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = STMS.Web
 build_property.RootNamespace = STMS.Web
-build_property.ProjectDir = D:\Downloads\STMS_Final\STMS.Web\
+build_property.ProjectDir = D:\Downloads\STMS\STMS.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Downloads\STMS_Final\STMS.Web
+build_property.MSBuildProjectDirectory = D:\Downloads\STMS\STMS.Web
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Admin/ActivityLogs.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Admin/ActivityLogs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWN0aXZpdHlMb2dzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Admin/Detail.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Admin/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Admin/Index.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Admin/Reports.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Admin/Reports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVwb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Admin/Users.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Admin/Users.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Auth/Denied.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Auth/Denied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Auth/Login.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Auth/Register.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Auth/ResetPassword.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Auth/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Home/Index.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Shared/Error.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Shared/_Layout.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Shared/_Message.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Shared/_Message.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZXNzYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/_ViewImports.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/STMS_Final/STMS.Web/Views/_ViewStart.cshtml]
+[D:/Downloads/STMS/STMS.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

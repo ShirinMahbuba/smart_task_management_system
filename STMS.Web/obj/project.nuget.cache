@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nDWAQYwVMiU=",
+  "dgSpecHash": "Ye52opefM9w=",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\STMS_Final\\STMS.Web\\STMS.Web.csproj",
+  "projectFilePath": "D:\\Downloads\\STMS\\STMS.Web\\STMS.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

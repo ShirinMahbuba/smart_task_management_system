@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Downloads\\STMS_Final\\STMS.Web\\STMS.Web.csproj": {}
+    "D:\\Downloads\\STMS\\STMS.Web\\STMS.Web.csproj": {}
   },
   "projects": {
-    "D:\\Downloads\\STMS_Final\\STMS.Data\\STMS.Data.csproj": {
+    "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS_Final\\STMS.Data\\STMS.Data.csproj",
+        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj",
         "projectName": "STMS.Data",
-        "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Data\\STMS.Data.csproj",
+        "projectPath": "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj",
         "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS_Final\\STMS.Data\\obj\\",
+        "outputPath": "D:\\Downloads\\STMS\\STMS.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Downloads\\STMS_Final\\STMS.Entities\\STMS.Entities.csproj": {
-                "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Entities\\STMS.Entities.csproj"
+              "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
+                "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "D:\\Downloads\\STMS_Final\\STMS.Entities\\STMS.Entities.csproj": {
+    "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS_Final\\STMS.Entities\\STMS.Entities.csproj",
+        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj",
         "projectName": "STMS.Entities",
-        "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Entities\\STMS.Entities.csproj",
+        "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj",
         "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS_Final\\STMS.Entities\\obj\\",
+        "outputPath": "D:\\Downloads\\STMS\\STMS.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -156,14 +156,14 @@
         }
       }
     },
-    "D:\\Downloads\\STMS_Final\\STMS.Models\\STMS.Models.csproj": {
+    "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS_Final\\STMS.Models\\STMS.Models.csproj",
+        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj",
         "projectName": "STMS.Models",
-        "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Models\\STMS.Models.csproj",
+        "projectPath": "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj",
         "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS_Final\\STMS.Models\\obj\\",
+        "outputPath": "D:\\Downloads\\STMS\\STMS.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -222,14 +222,14 @@
         }
       }
     },
-    "D:\\Downloads\\STMS_Final\\STMS.Repos\\STMS.Repos.csproj": {
+    "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS_Final\\STMS.Repos\\STMS.Repos.csproj",
+        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj",
         "projectName": "STMS.Repos",
-        "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Repos\\STMS.Repos.csproj",
+        "projectPath": "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj",
         "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS_Final\\STMS.Repos\\obj\\",
+        "outputPath": "D:\\Downloads\\STMS\\STMS.Repos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -251,17 +251,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Downloads\\STMS_Final\\STMS.Data\\STMS.Data.csproj": {
-                "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Data\\STMS.Data.csproj"
+              "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj": {
+                "projectPath": "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj"
               },
-              "D:\\Downloads\\STMS_Final\\STMS.Entities\\STMS.Entities.csproj": {
-                "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Entities\\STMS.Entities.csproj"
+              "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
+                "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj"
               },
-              "D:\\Downloads\\STMS_Final\\STMS.Models\\STMS.Models.csproj": {
-                "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Models\\STMS.Models.csproj"
+              "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj": {
+                "projectPath": "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj"
               },
-              "D:\\Downloads\\STMS_Final\\STMS.Shared\\STMS.Shared.csproj": {
-                "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Shared\\STMS.Shared.csproj"
+              "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj": {
+                "projectPath": "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj"
               }
             }
           }
@@ -301,14 +301,14 @@
         }
       }
     },
-    "D:\\Downloads\\STMS_Final\\STMS.Shared\\STMS.Shared.csproj": {
+    "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS_Final\\STMS.Shared\\STMS.Shared.csproj",
+        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj",
         "projectName": "STMS.Shared",
-        "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Shared\\STMS.Shared.csproj",
+        "projectPath": "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj",
         "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS_Final\\STMS.Shared\\obj\\",
+        "outputPath": "D:\\Downloads\\STMS\\STMS.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -330,8 +330,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Downloads\\STMS_Final\\STMS.Entities\\STMS.Entities.csproj": {
-                "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Entities\\STMS.Entities.csproj"
+              "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
+                "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj"
               }
             }
           }
@@ -371,14 +371,14 @@
         }
       }
     },
-    "D:\\Downloads\\STMS_Final\\STMS.Web\\STMS.Web.csproj": {
+    "D:\\Downloads\\STMS\\STMS.Web\\STMS.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS_Final\\STMS.Web\\STMS.Web.csproj",
+        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Web\\STMS.Web.csproj",
         "projectName": "STMS.Web",
-        "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Web\\STMS.Web.csproj",
+        "projectPath": "D:\\Downloads\\STMS\\STMS.Web\\STMS.Web.csproj",
         "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS_Final\\STMS.Web\\obj\\",
+        "outputPath": "D:\\Downloads\\STMS\\STMS.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -400,20 +400,20 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Downloads\\STMS_Final\\STMS.Data\\STMS.Data.csproj": {
-                "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Data\\STMS.Data.csproj"
+              "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj": {
+                "projectPath": "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj"
               },
-              "D:\\Downloads\\STMS_Final\\STMS.Entities\\STMS.Entities.csproj": {
-                "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Entities\\STMS.Entities.csproj"
+              "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
+                "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj"
               },
-              "D:\\Downloads\\STMS_Final\\STMS.Models\\STMS.Models.csproj": {
-                "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Models\\STMS.Models.csproj"
+              "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj": {
+                "projectPath": "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj"
               },
-              "D:\\Downloads\\STMS_Final\\STMS.Repos\\STMS.Repos.csproj": {
-                "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Repos\\STMS.Repos.csproj"
+              "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj": {
+                "projectPath": "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj"
               },
-              "D:\\Downloads\\STMS_Final\\STMS.Shared\\STMS.Shared.csproj": {
-                "projectPath": "D:\\Downloads\\STMS_Final\\STMS.Shared\\STMS.Shared.csproj"
+              "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj": {
+                "projectPath": "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj"
               }
             }
           }
