@@ -1,0 +1,54 @@
+﻿@model STMS.Entities.Comment
+
+<partial name="_Message" />
+
+<div class="container border mt-4 p-4">
+    <div class="row">
+        <div class="col-12">
+            @if (Model.ID == 0)
+            {
+                <h2>Add New Comment</h2>
+            }
+            else
+            {
+                <h2>Edit Comment #@Model.ID</h2>
+            }
+        </div>
+        <hr />
+    </div>
+
+    <form method="post" asp-action="Detail" asp-controller="Comment">
+        <input type="hidden" asp-for="ID" />
+        <input type="hidden" asp-for="TaskID" />
+        <input type="hidden" asp-for="UserID" />
+        <input type="hidden" asp-for="CreatedAt" />
+
+        <div class="row">
+            <label asp-for="CommentText" class="form-label"></label>
+            <textarea asp-for="CommentText"
+                      class="form-control"
+                      rows="4"></textarea>
+            <span asp-validation-for="CommentText" class="text-danger"></span>
+        </div>
+
+        <div class="row mt-3">
+            <div class="col-6">
+                <button type="submit" class="btn btn-primary">
+                    <i class="bi bi-floppy2"></i>&nbsp;Submit
+                </button>
+                &nbsp;
+                <a asp-action="Index"
+                   asp-controller="Comment"
+                   asp-route-taskId="@Model.TaskID"
+                   class="btn btn-outline-secondary">
+                    <i class="bi bi-arrow-left-circle-fill"></i>&nbsp;Back To List
+                </a>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts
+{
+    @Html.Partial("_ValidationScriptsPartial")
+}

@@ -1,5 +1,6 @@
 using STMS.Data;
 using STMS.Repos;
+using STMS.Web;
 using Microsoft.EntityFrameworkCore;
 
 internal class Program
@@ -9,11 +10,17 @@ internal class Program
         var builder = WebApplication.CreateBuilder(args);
 
         builder.Services.AddControllersWithViews();
+        builder.Services.AddControllers();
+        builder.Services.AddAutoMapper(typeof(MappingProfile));
 
         builder.Services.AddDbContext<StmsDbContext>(opt =>
             opt.UseSqlServer(builder.Configuration.GetConnectionString("StmsDbContext")));
 
         builder.Services.AddScoped<UserRepo>();
+        builder.Services.AddScoped<TaskRepo>();          
+        builder.Services.AddScoped<TaskStepRepo>();    
+        builder.Services.AddScoped<CommentRepo>();       
+        builder.Services.AddScoped<AttachmentRepo>();    
 
         builder.Services.AddAuthentication("StmsAuth")
             .AddCookie("StmsAuth", options =>
@@ -35,6 +42,8 @@ internal class Program
             app.UseHsts();
         }
 
+        
+
         app.UseHttpsRedirection();
         app.UseStaticFiles();
         app.UseRouting();
@@ -44,6 +53,8 @@ internal class Program
         app.MapControllerRoute(
             name: "default",
             pattern: "{controller=Auth}/{action=Login}/{id?}");
+
+        app.MapControllers();
 
         app.Run();
     }

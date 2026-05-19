@@ -21,3 +21,29 @@ D:\Downloads\STMS\STMS.Entities\obj\Debug\net8.0\STMS.Entities.dll
 D:\Downloads\STMS\STMS.Entities\obj\Debug\net8.0\refint\STMS.Entities.dll
 D:\Downloads\STMS\STMS.Entities\obj\Debug\net8.0\STMS.Entities.pdb
 D:\Downloads\STMS\STMS.Entities\obj\Debug\net8.0\ref\STMS.Entities.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Entities\bin\Debug\net8.0\STMS.Entities.deps.json
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Entities\bin\Debug\net8.0\STMS.Entities.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Entities\bin\Debug\net8.0\STMS.Entities.pdb
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.sourcelink.json
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\refint\STMS.Entities.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.pdb
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\ref\STMS.Entities.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\ok\STMS.Entities\bin\Debug\net8.0\STMS.Entities.deps.json
+C:\Users\user\Desktop\New folder\ok\STMS.Entities\bin\Debug\net8.0\STMS.Entities.dll
+C:\Users\user\Desktop\New folder\ok\STMS.Entities\bin\Debug\net8.0\STMS.Entities.pdb
+C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\STMS.Entities.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\STMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\STMS.Entities.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\STMS.Entities.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\STMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\STMS.Entities.sourcelink.json
+C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\STMS.Entities.dll
+C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\refint\STMS.Entities.dll
+C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\STMS.Entities.pdb
+C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\ref\STMS.Entities.dll

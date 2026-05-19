@@ -18,10 +18,10 @@ namespace STMS.Entities
         [StringLength(500)]
         public string? FilePath { get; set; }
 
-        public DateTime UploadedAt { get; set; } = DateTime.Now;
-        public int? UploadedBy { get; set; }
-
         [ForeignKey("TaskID")]
         public virtual Task? Task { get; set; }
+        public DateTime? UpdatedAt { get; set; }
+        public int? UpdatedBy { get; set; }
+        public int UploadedBy { get; set; }
     }
 }

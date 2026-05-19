@@ -9,12 +9,8 @@ namespace STMS.Entities
         [Key, DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ID { get; set; }
 
-        public int? UserID { get; set; }
-        public int? TaskID { get; set; }
-        public int? PostID { get; set; }
-
-        [Required]
-        public string Content { get; set; } = null!;
+        public int UserID { get; set; }
+        public int TaskID { get; set; }
 
         public DateTime CreatedAt { get; set; } = DateTime.Now;
 
@@ -23,8 +19,8 @@ namespace STMS.Entities
 
         [ForeignKey("TaskID")]
         public virtual Task? Task { get; set; }
-
-        [ForeignKey("PostID")]
-        public virtual Post? Post { get; set; }
+        [Required]
+        public  string CommentText { get; set; }
+        public DateTime UpdatedAt { get; set; }
     }
 }

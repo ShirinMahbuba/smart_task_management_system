@@ -1,0 +1,629 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\views\\comment\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\views\\comment\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\controllers\\attachmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\controllers\\attachmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\controllers\\taskstepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\controllers\\taskstepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.repos\\tasksteprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|solutionrelative:stms.repos\\tasksteprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.repos\\taskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|solutionrelative:stms.repos\\taskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\views\\task\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\views\\task\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\views\\taskstep\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\views\\taskstep\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\views\\comment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\views\\comment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|solutionrelative:stms.repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.entities\\taskstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\taskstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.entities\\taskassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\taskassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.repos\\commentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|solutionrelative:stms.repos\\commentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.entities\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.repos\\attachmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|solutionrelative:stms.repos\\attachmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\views\\attachment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\views\\attachment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.entities\\stms.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\stms.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.repos\\stms.repos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|solutionrelative:stms.repos\\stms.repos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D3DD62-AD32-A7EC-9408-D3ED764048AE}|STMS.Data\\STMS.Data.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.data\\stmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D3DD62-AD32-A7EC-9408-D3ED764048AE}|STMS.Data\\STMS.Data.csproj|solutionrelative:stms.data\\stmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030E9FAF-C2D9-464F-8C9D-1DA27469DB52}|STMS.DTOs\\STMS.DTOs.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030E9FAF-C2D9-464F-8C9D-1DA27469DB52}|STMS.DTOs\\STMS.DTOs.csproj|solutionrelative:stms.dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030E9FAF-C2D9-464F-8C9D-1DA27469DB52}|STMS.DTOs\\STMS.DTOs.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.dtos\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030E9FAF-C2D9-464F-8C9D-1DA27469DB52}|STMS.DTOs\\STMS.DTOs.csproj|solutionrelative:stms.dtos\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.web\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682B3D-EF6F-B502-4333-1C7DDEDAA731}|STMS.Shared\\STMS.Shared.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.shared\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682B3D-EF6F-B502-4333-1C7DDEDAA731}|STMS.Shared\\STMS.Shared.csproj|solutionrelative:stms.shared\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.entities\\taskdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\taskdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6ED270E-5019-4DB2-CD30-5CA6CD7B7ECF}|STMS.Models\\STMS.Models.csproj|c:\\users\\user\\desktop\\new folder\\ok\\stms.models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED270E-5019-4DB2-CD30-5CA6CD7B7ECF}|STMS.Models\\STMS.Models.csproj|solutionrelative:stms.models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "STMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "STMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAwIYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T19:40:32.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\Task\\Index.cshtml",
+              "RelativeDocumentMoniker": "STMS.Web\\Views\\Task\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\Task\\Index.cshtml",
+              "RelativeToolTip": "STMS.Web\\Views\\Task\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwEUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T14:32:48.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\Task\\Detail.cshtml",
+              "RelativeDocumentMoniker": "STMS.Web\\Views\\Task\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\Task\\Detail.cshtml",
+              "RelativeToolTip": "STMS.Web\\Views\\Task\\Detail.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwFYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T14:32:02.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "STMS.Web\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "STMS.Web\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:48:50.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\Attachment.cs",
+              "RelativeDocumentMoniker": "STMS.Entities\\Attachment.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\Attachment.cs",
+              "RelativeToolTip": "STMS.Entities\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:48:26.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "STMS.Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\Comment.cs",
+              "RelativeToolTip": "STMS.Entities\\Comment.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:48:51.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttachmentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\AttachmentController.cs",
+              "RelativeDocumentMoniker": "STMS.Web\\Controllers\\AttachmentController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\AttachmentController.cs",
+              "RelativeToolTip": "STMS.Web\\Controllers\\AttachmentController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:02:23.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "STMS.Web\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "STMS.Web\\Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:55:53.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Program.cs",
+              "RelativeDocumentMoniker": "STMS.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Program.cs",
+              "RelativeToolTip": "STMS.Web\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:10:39.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskStepController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\TaskStepController.cs",
+              "RelativeDocumentMoniker": "STMS.Web\\Controllers\\TaskStepController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\TaskStepController.cs",
+              "RelativeToolTip": "STMS.Web\\Controllers\\TaskStepController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:40:16.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\Comment\\Detail.cshtml",
+              "RelativeDocumentMoniker": "STMS.Web\\Views\\Comment\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\Comment\\Detail.cshtml",
+              "RelativeToolTip": "STMS.Web\\Views\\Comment\\Detail.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T16:50:29.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "STMS.Web\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "STMS.Web\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:57:02.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "STMS.Web\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "STMS.Web\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T14:28:33.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\TaskStep\\Update.cshtml",
+              "RelativeDocumentMoniker": "STMS.Web\\Views\\TaskStep\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\TaskStep\\Update.cshtml",
+              "RelativeToolTip": "STMS.Web\\Views\\TaskStep\\Update.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T02:37:59.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\TaskRepo.cs",
+              "RelativeDocumentMoniker": "STMS.Repos\\TaskRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\TaskRepo.cs",
+              "RelativeToolTip": "STMS.Repos\\TaskRepo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:16:53.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\Post.cs",
+              "RelativeDocumentMoniker": "STMS.Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\Post.cs",
+              "RelativeToolTip": "STMS.Entities\\Post.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:49:06.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskStepRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\TaskStepRepo.cs",
+              "RelativeDocumentMoniker": "STMS.Repos\\TaskStepRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\TaskStepRepo.cs",
+              "RelativeToolTip": "STMS.Repos\\TaskStepRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:18:46.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "STMS.Repos\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\UserRepo.cs",
+              "RelativeToolTip": "STMS.Repos\\UserRepo.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAUwKMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:50:59.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\Task.cs",
+              "RelativeDocumentMoniker": "STMS.Entities\\Task.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\Task.cs",
+              "RelativeToolTip": "STMS.Entities\\Task.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:49:10.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\TaskAssignment.cs",
+              "RelativeDocumentMoniker": "STMS.Entities\\TaskAssignment.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\TaskAssignment.cs",
+              "RelativeToolTip": "STMS.Entities\\TaskAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:49:23.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\Comment\\Index.cshtml",
+              "RelativeDocumentMoniker": "STMS.Web\\Views\\Comment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\Comment\\Index.cshtml",
+              "RelativeToolTip": "STMS.Web\\Views\\Comment\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwC0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T16:51:03.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "STMS.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "STMS.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T03:01:46.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\User.cs",
+              "RelativeDocumentMoniker": "STMS.Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\User.cs",
+              "RelativeToolTip": "STMS.Entities\\User.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:50:41.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CommentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\CommentRepo.cs",
+              "RelativeDocumentMoniker": "STMS.Repos\\CommentRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\CommentRepo.cs",
+              "RelativeToolTip": "STMS.Repos\\CommentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:16:29.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TaskStep.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\TaskStep.cs",
+              "RelativeDocumentMoniker": "STMS.Entities\\TaskStep.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\TaskStep.cs",
+              "RelativeToolTip": "STMS.Entities\\TaskStep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:49:59.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StmsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Data\\StmsDbContext.cs",
+              "RelativeDocumentMoniker": "STMS.Data\\StmsDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Data\\StmsDbContext.cs",
+              "RelativeToolTip": "STMS.Data\\StmsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:48:08.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AttachmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\AttachmentRepo.cs",
+              "RelativeDocumentMoniker": "STMS.Repos\\AttachmentRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\AttachmentRepo.cs",
+              "RelativeToolTip": "STMS.Repos\\AttachmentRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:58:52.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "STMS.Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\STMS.Entities.csproj",
+              "RelativeDocumentMoniker": "STMS.Entities\\STMS.Entities.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\STMS.Entities.csproj",
+              "RelativeToolTip": "STMS.Entities\\STMS.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-18T21:13:07.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "STMS.Entities\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\ActivityLog.cs",
+              "RelativeToolTip": "STMS.Entities\\ActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:45:04.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "STMS.Repos.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\STMS.Repos.csproj",
+              "RelativeDocumentMoniker": "STMS.Repos\\STMS.Repos.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\STMS.Repos.csproj",
+              "RelativeToolTip": "STMS.Repos\\STMS.Repos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-18T21:07:39.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\Attachment\\Index.cshtml",
+              "RelativeDocumentMoniker": "STMS.Web\\Views\\Attachment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\Views\\Attachment\\Index.cshtml",
+              "RelativeToolTip": "STMS.Web\\Views\\Attachment\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T21:22:48.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.DTOs\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "STMS.DTOs\\CommentDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.DTOs\\CommentDTO.cs",
+              "RelativeToolTip": "STMS.DTOs\\CommentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:10:34.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AttachmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.DTOs\\AttachmentDTO.cs",
+              "RelativeDocumentMoniker": "STMS.DTOs\\AttachmentDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.DTOs\\AttachmentDTO.cs",
+              "RelativeToolTip": "STMS.DTOs\\AttachmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:10:31.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "STMS.Web\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\MappingProfile.cs",
+              "RelativeToolTip": "STMS.Web\\MappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:56:31.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Shared\\Result.cs",
+              "RelativeDocumentMoniker": "STMS.Shared\\Result.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Shared\\Result.cs",
+              "RelativeToolTip": "STMS.Shared\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:52:14.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "STMS.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\appsettings.json",
+              "RelativeToolTip": "STMS.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAqqqqqqravwgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-18T20:45:22.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TaskDependency.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\TaskDependency.cs",
+              "RelativeDocumentMoniker": "STMS.Entities\\TaskDependency.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\TaskDependency.cs",
+              "RelativeToolTip": "STMS.Entities\\TaskDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:49:27.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "STMS.Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Models\\RegisterModel.cs",
+              "RelativeToolTip": "STMS.Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T20:46:23.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

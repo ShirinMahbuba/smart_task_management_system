@@ -1,0 +1,87 @@
+﻿@model STMS.Entities.Task
+
+<partial name="_Message" />
+
+<div class="container border mt-4 p-4">
+    <div class="row">
+        <div class="col-12">
+            <h2>Task# @Model.ID</h2>
+        </div>
+        <hr />
+    </div>
+
+    <div class="row">
+        <div class="col-md-8">
+            <table class="table table-bordered">
+                <tr>
+                    <th width="30%">Title</th>
+                    <td>@Model.Title</td>
+                </tr>
+                <tr>
+                    <th>Description</th>
+                    <td>@Model.Description</td>
+                </tr>
+                <tr>
+                    <th>Priority</th>
+                    <td>
+                        @if (Model.Priority == "High")
+                        {
+                            <span class="badge bg-danger">@Model.Priority</span>
+                        }
+                        else if (Model.Priority == "Medium")
+                        {
+                            <span class="badge bg-warning">@Model.Priority</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-success">@Model.Priority</span>
+                        }
+                    </td>
+                </tr>
+                <tr>
+                    <th>Due Date</th>
+                    <td>@(Model.DueDate.HasValue ? Model.DueDate.Value.ToShortDateString() : "No Date")</td>
+                </tr>
+                <tr>
+                    <th>Current Status</th>
+                    <td>
+                        @(Model.TaskSteps?
+                            .OrderByDescending(s => s.Status)
+                            .FirstOrDefault()?.Status ?? "Pending")
+                    </td>
+                </tr>
+            </table>
+
+            <div class="row mt-3">
+                <div class="col-12">
+                    <a asp-action="Update"
+                       asp-controller="TaskStep"
+                       asp-route-taskId="@Model.ID"
+                       class="btn btn-warning">
+                        <i class="bi bi-arrow-repeat"></i>&nbsp;Update Status
+                    </a>
+                    &nbsp;
+                    <a asp-action="Index"
+                       asp-controller="Comment"
+                       asp-route-taskId="@Model.ID"
+                       class="btn btn-secondary">
+                        <i class="bi bi-chat"></i>&nbsp;Comments
+                    </a>
+                    &nbsp;
+                    <a asp-action="Index"
+                       asp-controller="Attachment"
+                       asp-route-taskId="@Model.ID"
+                       class="btn btn-info">
+                        <i class="bi bi-paperclip"></i>&nbsp;Attachments
+                    </a>
+                    &nbsp;
+                    <a asp-action="Index"
+                       asp-controller="Task"
+                       class="btn btn-outline-secondary">
+                        <i class="bi bi-arrow-left-circle-fill"></i>&nbsp;Back To List
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

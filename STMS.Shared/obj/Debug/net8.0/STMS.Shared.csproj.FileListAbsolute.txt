@@ -29,3 +29,35 @@ D:\Downloads\STMS\STMS.Shared\obj\Debug\net8.0\STMS.Shared.dll
 D:\Downloads\STMS\STMS.Shared\obj\Debug\net8.0\refint\STMS.Shared.dll
 D:\Downloads\STMS\STMS.Shared\obj\Debug\net8.0\STMS.Shared.pdb
 D:\Downloads\STMS\STMS.Shared\obj\Debug\net8.0\ref\STMS.Shared.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\bin\Debug\net8.0\STMS.Shared.deps.json
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\bin\Debug\net8.0\STMS.Shared.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\bin\Debug\net8.0\STMS.Shared.pdb
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\bin\Debug\net8.0\STMS.Entities.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\bin\Debug\net8.0\STMS.Entities.pdb
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.sourcelink.json
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Sha.EE68887C.Up2Date
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\refint\STMS.Shared.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.pdb
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\ref\STMS.Shared.dll
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\bin\Debug\net8.0\STMS.Shared.deps.json
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\bin\Debug\net8.0\STMS.Shared.dll
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\bin\Debug\net8.0\STMS.Shared.pdb
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\bin\Debug\net8.0\STMS.Entities.dll
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\bin\Debug\net8.0\STMS.Entities.pdb
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\STMS.Shared.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\STMS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\STMS.Shared.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\STMS.Shared.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\STMS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\STMS.Shared.sourcelink.json
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\STMS.Sha.EE68887C.Up2Date
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\STMS.Shared.dll
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\refint\STMS.Shared.dll
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\STMS.Shared.pdb
+C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\ref\STMS.Shared.dll

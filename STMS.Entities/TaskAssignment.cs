@@ -9,10 +9,12 @@ namespace STMS.Entities
         [Key, DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ID { get; set; }
 
-        public int? TaskID { get; set; }
-        public int? UserID { get; set; }
+        public int TaskID { get; set; }
+        public int UserID { get; set; }
 
-        public DateTime AssignedAt { get; set; } = DateTime.Now;
+        public int AssignedBy { get; set; }
+
+        public DateTime AssignedDate { get; set; } = DateTime.Now;
 
         [ForeignKey("TaskID")]
         public virtual Task? Task { get; set; }

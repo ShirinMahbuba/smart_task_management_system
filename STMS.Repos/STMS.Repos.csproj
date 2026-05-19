@@ -5,7 +5,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\STMS.Data\STMS.Data.csproj" />
+    <ProjectReference Include="..\STMS.DTOs\STMS.DTOs.csproj" />
     <ProjectReference Include="..\STMS.Entities\STMS.Entities.csproj" />
     <ProjectReference Include="..\STMS.Models\STMS.Models.csproj" />
     <ProjectReference Include="..\STMS.Shared\STMS.Shared.csproj" />

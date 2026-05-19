@@ -33,3 +33,39 @@ D:\Downloads\STMS\STMS.Data\obj\Debug\net8.0\refint\STMS.Data.dll
 D:\Downloads\STMS\STMS.Data\obj\Debug\net8.0\STMS.Data.pdb
 D:\Downloads\STMS\STMS.Data\obj\Debug\net8.0\STMS.Data.genruntimeconfig.cache
 D:\Downloads\STMS\STMS.Data\obj\Debug\net8.0\ref\STMS.Data.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\bin\Debug\net8.0\STMS.Data.deps.json
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\bin\Debug\net8.0\STMS.Data.runtimeconfig.json
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\bin\Debug\net8.0\STMS.Data.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\bin\Debug\net8.0\STMS.Data.pdb
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\bin\Debug\net8.0\STMS.Entities.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\bin\Debug\net8.0\STMS.Entities.pdb
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.sourcelink.json
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.csproj.Up2Date
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\obj\Debug\net8.0\refint\STMS.Data.dll
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.pdb
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Data\obj\Debug\net8.0\ref\STMS.Data.dll
+C:\Users\user\Desktop\New folder\ok\STMS.Data\bin\Debug\net8.0\STMS.Data.deps.json
+C:\Users\user\Desktop\New folder\ok\STMS.Data\bin\Debug\net8.0\STMS.Data.runtimeconfig.json
+C:\Users\user\Desktop\New folder\ok\STMS.Data\bin\Debug\net8.0\STMS.Data.dll
+C:\Users\user\Desktop\New folder\ok\STMS.Data\bin\Debug\net8.0\STMS.Data.pdb
+C:\Users\user\Desktop\New folder\ok\STMS.Data\bin\Debug\net8.0\STMS.Entities.dll
+C:\Users\user\Desktop\New folder\ok\STMS.Data\bin\Debug\net8.0\STMS.Entities.pdb
+C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\STMS.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\STMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\STMS.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\STMS.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\STMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\STMS.Data.sourcelink.json
+C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\STMS.Data.csproj.Up2Date
+C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\STMS.Data.dll
+C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\refint\STMS.Data.dll
+C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\STMS.Data.pdb
+C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\STMS.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\ref\STMS.Data.dll

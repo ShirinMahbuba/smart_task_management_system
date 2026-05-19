@@ -1,3 +1,4 @@
+using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -11,13 +12,11 @@ namespace STMS.Entities
 
         public int? TaskID { get; set; }
 
-        [Required]
-        [StringLength(255)]
-        public string StepTitle { get; set; } = null!;
+        public string? Status { get; set; }
 
-        public bool IsCompleted { get; set; } = false;
+        public DateTime DateTime { get; set; }
 
-        public int StepOrder { get; set; } = 0;
+        public int PerformedBy { get; set; }
 
         [ForeignKey("TaskID")]
         public virtual Task? Task { get; set; }

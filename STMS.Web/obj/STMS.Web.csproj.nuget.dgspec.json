@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Downloads\\STMS\\STMS.Web\\STMS.Web.csproj": {}
+    "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\STMS.Web.csproj": {}
   },
   "projects": {
-    "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj": {
+    "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Data\\STMS.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Data\\STMS.Data.csproj",
         "projectName": "STMS.Data",
-        "projectPath": "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj",
-        "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS\\STMS.Data\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Data\\STMS.Data.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS ZenBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj"
+              "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\STMS.Entities.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\STMS.Entities.csproj"
               }
             }
           }
@@ -49,12 +49,17 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.24, )"
@@ -86,24 +91,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
+    "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.DTOs\\STMS.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj",
-        "projectName": "STMS.Entities",
-        "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj",
-        "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS\\STMS.Entities\\obj\\",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.DTOs\\STMS.DTOs.csproj",
+        "projectName": "STMS.DTOs",
+        "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.DTOs\\STMS.DTOs.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS ZenBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -112,11 +117,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -131,309 +136,421 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj",
-        "projectName": "STMS.Models",
-        "projectPath": "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj",
-        "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS\\STMS.Models\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\ASUS ZenBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj",
-        "projectName": "STMS.Repos",
-        "projectPath": "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj",
-        "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS\\STMS.Repos\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\ASUS ZenBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj"
-              },
-              "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj"
-              },
-              "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj"
-              },
-              "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj",
-        "projectName": "STMS.Shared",
-        "projectPath": "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj",
-        "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS\\STMS.Shared\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\ASUS ZenBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Downloads\\STMS\\STMS.Web\\STMS.Web.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Web\\STMS.Web.csproj",
-        "projectName": "STMS.Web",
-        "projectPath": "D:\\Downloads\\STMS\\STMS.Web\\STMS.Web.csproj",
-        "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS\\STMS.Web\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\ASUS ZenBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj"
-              },
-              "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj"
-              },
-              "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj"
-              },
-              "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj"
-              },
-              "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
-      },
-      "frameworks": {
-        "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\STMS.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\STMS.Entities.csproj",
+        "projectName": "STMS.Entities",
+        "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\STMS.Entities.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Models\\STMS.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Models\\STMS.Models.csproj",
+        "projectName": "STMS.Models",
+        "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Models\\STMS.Models.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\STMS.Repos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\STMS.Repos.csproj",
+        "projectName": "STMS.Repos",
+        "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\STMS.Repos.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Data\\STMS.Data.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Data\\STMS.Data.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.DTOs\\STMS.DTOs.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.DTOs\\STMS.DTOs.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\STMS.Entities.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\STMS.Entities.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Models\\STMS.Models.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Models\\STMS.Models.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Shared\\STMS.Shared.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Shared\\STMS.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Shared\\STMS.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Shared\\STMS.Shared.csproj",
+        "projectName": "STMS.Shared",
+        "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Shared\\STMS.Shared.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\STMS.Entities.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\STMS.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\STMS.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\STMS.Web.csproj",
+        "projectName": "STMS.Web",
+        "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\STMS.Web.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Data\\STMS.Data.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Data\\STMS.Data.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.DTOs\\STMS.DTOs.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.DTOs\\STMS.DTOs.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\STMS.Entities.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Entities\\STMS.Entities.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Models\\STMS.Models.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Models\\STMS.Models.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\STMS.Repos.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Repos\\STMS.Repos.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Shared\\STMS.Shared.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\New folder\\ok\\STMS.Shared\\STMS.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.24, )"
@@ -468,7 +585,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
