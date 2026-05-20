@@ -1,0 +1,162 @@
+@model STMS.Repos.AdminDashboardData
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+@Html.Partial("_Message")
+
+<div class="row pt-4">
+    <div class="col-6">
+        <h2 class="text-primary">
+            <i class="bi bi-speedometer2 me-2"></i>Admin Dashboard
+        </h2>
+    </div>
+    <div class="col-6 text-end">
+        <a class="btn btn-warning" asp-action="Detail" asp-controller="Admin" asp-route-dataId="-1">
+            <i class="bi bi-plus-circle"></i>&nbsp; Add New User
+        </a>
+    </div>
+</div>
+<hr />
+
+@* ── Summary Cards ── *@
+<div class="row pt-2">
+    <div class="col-md-2 mb-3">
+        <div class="card border-primary text-center p-3">
+            <h6 class="text-muted">Total Users</h6>
+            <h2 class="fw-bold text-primary">@Model.TotalUsers</h2>
+        </div>
+    </div>
+    <div class="col-md-2 mb-3">
+        <div class="card border-success text-center p-3">
+            <h6 class="text-muted">Active</h6>
+            <h2 class="fw-bold text-success">@Model.ActiveUsers</h2>
+        </div>
+    </div>
+    <div class="col-md-2 mb-3">
+        <div class="card border-secondary text-center p-3">
+            <h6 class="text-muted">Inactive</h6>
+            <h2 class="fw-bold text-secondary">@Model.InactiveUsers</h2>
+        </div>
+    </div>
+    <div class="col-md-2 mb-3">
+        <div class="card border-info text-center p-3">
+            <h6 class="text-muted">Projects</h6>
+            <h2 class="fw-bold text-info">@Model.TotalProjects</h2>
+        </div>
+    </div>
+    <div class="col-md-2 mb-3">
+        <div class="card border-warning text-center p-3">
+            <h6 class="text-muted">Total Tasks</h6>
+            <h2 class="fw-bold text-warning">@Model.TotalTasks</h2>
+        </div>
+    </div>
+    <div class="col-md-2 mb-3">
+        <div class="card border-danger text-center p-3">
+            <h6 class="text-muted">Pending</h6>
+            <h2 class="fw-bold text-danger">@Model.PendingTasks</h2>
+        </div>
+    </div>
+</div>
+
+<div class="row pt-2">
+    @* ── Role Groups ── *@
+    <div class="col-md-4 mb-3">
+        <div class="card h-100">
+            <div class="card-header bg-primary text-white fw-bold">
+                <i class="bi bi-people me-1"></i>Users by Role
+            </div>
+            <div class="card-body p-0">
+                <table class="table table-bordered table-hover mb-0">
+                    <thead>
+                        <tr class="table-primary">
+                            <th>Role</th>
+                            <th>Count</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var rg in Model.ByRole)
+                        {
+                            <tr>
+                                <td>
+                                    <span class="badge
+                                        @(rg.Role == "Admin"    ? "bg-danger"  :
+                                          rg.Role == "Manager"  ? "bg-warning text-dark" :
+                                          rg.Role == "Employee" ? "bg-primary" : "bg-secondary")">
+                                        @rg.Role
+                                    </span>
+                                </td>
+                                <td><strong>@rg.Count</strong></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    @* ── Task Status ── *@
+    <div class="col-md-4 mb-3">
+        <div class="card h-100">
+            <div class="card-header bg-warning text-dark fw-bold">
+                <i class="bi bi-check2-square me-1"></i>Task Status
+            </div>
+            <div class="card-body p-0">
+                <table class="table table-bordered mb-0">
+                    <tbody>
+                        <tr>
+                            <td>Pending</td>
+                            <td><span class="badge bg-danger">@Model.PendingTasks</span></td>
+                        </tr>
+                        <tr>
+                            <td>Completed</td>
+                            <td><span class="badge bg-success">@Model.CompletedTasks</span></td>
+                        </tr>
+                        <tr>
+                            <td>Total</td>
+                            <td><span class="badge bg-primary">@Model.TotalTasks</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    @* ── Recent Activity ── *@
+    <div class="col-md-4 mb-3">
+        <div class="card h-100">
+            <div class="card-header bg-dark text-white d-flex justify-content-between">
+                <span><i class="bi bi-activity me-1"></i>Recent Activity</span>
+                <a asp-action="ActivityLogs" class="text-white text-decoration-none small">View All</a>
+            </div>
+            <div class="card-body p-0">
+                <table class="table table-sm mb-0">
+                    <tbody>
+                        @foreach (var log in Model.RecentLogs)
+                        {
+                            <tr>
+                                <td class="ps-2 small">@log.Action</td>
+                                <td class="text-muted small text-end pe-2">@log.LogTime.ToString("dd/MM HH:mm")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+@* ── Quick Links ── *@
+<div class="row pt-2">
+    <div class="col-12">
+        <a asp-action="Users" class="btn btn-outline-primary me-2">
+            <i class="bi bi-people"></i> Manage Users
+        </a>
+        <a asp-action="Reports" class="btn btn-outline-info me-2">
+            <i class="bi bi-bar-chart"></i> Reports
+        </a>
+        <a asp-action="ActivityLogs" class="btn btn-outline-dark">
+            <i class="bi bi-activity"></i> Activity Logs
+        </a>
+    </div>
+</div>

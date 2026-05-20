@@ -1,0 +1,43 @@
+@model List<STMS.Entities.ActivityLog>
+
+@Html.Partial("_Message")
+
+<div class="row pt-4">
+    <div class="col-6">
+        <h2 class="text-primary">
+            <i class="bi bi-activity me-2"></i>User Activity Logs
+        </h2>
+    </div>
+    <div class="col-6 text-end">
+        <a asp-action="Index" asp-controller="Admin" class="btn btn-outline-secondary">
+            <i class="bi bi-arrow-left-circle-fill"></i>&nbsp; Back to Dashboard
+        </a>
+    </div>
+</div>
+<hr />
+
+<div class="row pt-2">
+    <div class="col-12">
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr class="table-dark">
+                    <th>Ref</th>
+                    <th>User ID</th>
+                    <th>Action</th>
+                    <th>Log Time</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var log in Model)
+                {
+                    <tr>
+                        <td width="5%">@log.ID</td>
+                        <td width="10%">@log.UserID</td>
+                        <td width="55%">@log.Action</td>
+                        <td width="30%">@log.LogTime.ToString("dd/MM/yyyy HH:mm:ss")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

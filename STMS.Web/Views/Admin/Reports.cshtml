@@ -1,0 +1,199 @@
+@{
+    ViewData["Title"] = "Reports";
+    var dash = ViewBag.Dashboard as STMS.Repos.AdminDashboardData;
+}
+
+@Html.Partial("_Message")
+
+<div class="row pt-4">
+    <div class="col-6">
+        <h2 class="text-primary">
+            <i class="bi bi-bar-chart me-2"></i>Reports &amp; Overview
+        </h2>
+    </div>
+    <div class="col-6 text-end">
+        <a asp-action="Index" asp-controller="Admin" class="btn btn-outline-secondary">
+            <i class="bi bi-arrow-left-circle-fill"></i>&nbsp; Back to Dashboard
+        </a>
+    </div>
+</div>
+<hr />
+
+@* ── Summary Cards ── *@
+<div class="row pt-2">
+    <div class="col-md-3 mb-3">
+        <div class="card border-primary text-center p-3">
+            <h6 class="text-muted">Total Users</h6>
+            <h2 class="fw-bold text-primary">@dash?.TotalUsers</h2>
+        </div>
+    </div>
+    <div class="col-md-3 mb-3">
+        <div class="card border-success text-center p-3">
+            <h6 class="text-muted">Active Users</h6>
+            <h2 class="fw-bold text-success">@dash?.ActiveUsers</h2>
+        </div>
+    </div>
+    <div class="col-md-3 mb-3">
+        <div class="card border-info text-center p-3">
+            <h6 class="text-muted">Total Projects</h6>
+            <h2 class="fw-bold text-info">@dash?.TotalProjects</h2>
+        </div>
+    </div>
+    <div class="col-md-3 mb-3">
+        <div class="card border-warning text-center p-3">
+            <h6 class="text-muted">Total Tasks</h6>
+            <h2 class="fw-bold text-warning">@dash?.TotalTasks</h2>
+        </div>
+    </div>
+</div>
+
+<div class="row pt-2">
+    @* ── Role Report ── *@
+    <div class="col-md-4 mb-4">
+        <div class="card">
+            <div class="card-header bg-primary text-white fw-bold">Users by Role</div>
+            <div class="card-body p-0">
+                <table class="table table-bordered table-hover mb-0">
+                    <thead>
+                        <tr class="table-primary">
+                            <th>Role</th>
+                            <th>Total</th>
+                            <th>Bar</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (dash?.ByRole != null && dash.TotalUsers > 0)
+                        {
+                            foreach (var rg in dash.ByRole)
+                            {
+                                int pct = (int)Math.Round((double)rg.Count / dash.TotalUsers * 100);
+                                <tr>
+                                    <td>
+                                        <span class="badge
+                                            @(rg.Role == "Admin"    ? "bg-danger"  :
+                                              rg.Role == "Manager"  ? "bg-warning text-dark" :
+                                              rg.Role == "Employee" ? "bg-primary" : "bg-secondary")">
+                                            @rg.Role
+                                        </span>
+                                    </td>
+                                    <td>@rg.Count</td>
+                                    <td>
+                                        <div class="progress" style="height:16px">
+                                            <div class="progress-bar" style="width:@pct%">@pct%</div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    @* ── Task Report ── *@
+    <div class="col-md-4 mb-4">
+        <div class="card">
+            <div class="card-header bg-warning text-dark fw-bold">Task Report</div>
+            <div class="card-body p-0">
+                <table class="table table-bordered mb-0">
+                    <tbody>
+                        <tr>
+                            <td>Total Tasks</td>
+                            <td><span class="badge bg-primary">@dash?.TotalTasks</span></td>
+                        </tr>
+                        <tr>
+                            <td>Pending</td>
+                            <td><span class="badge bg-danger">@dash?.PendingTasks</span></td>
+                        </tr>
+                        <tr>
+                            <td>Completed</td>
+                            <td><span class="badge bg-success">@dash?.CompletedTasks</span></td>
+                        </tr>
+                        <tr>
+                            <td>Total Projects</td>
+                            <td><span class="badge bg-info text-dark">@dash?.TotalProjects</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    @* ── Activity This Month ── *@
+    <div class="col-md-4 mb-4">
+        <div class="card">
+            <div class="card-header bg-dark text-white fw-bold">
+                Activity This Month
+                <span class="badge bg-info text-dark ms-2">@ViewBag.LogsThisMonth</span>
+            </div>
+            <div class="card-body p-0" style="max-height:200px;overflow-y:auto">
+                <table class="table table-sm mb-0">
+                    <tbody>
+                        @if (ViewBag.AllLogs != null)
+                        {
+                            foreach (var log in ViewBag.AllLogs)
+                            {
+                                <tr>
+                                    <td class="ps-2 small">@log.Action</td>
+                                    <td class="text-muted small pe-2">@log.LogTime.ToString("dd/MM HH:mm")</td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+@* ── All Users Table ── *@
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header bg-secondary text-white fw-bold">All Users Report</div>
+            <div class="card-body p-0">
+                <table class="table table-bordered table-hover mb-0">
+                    <thead>
+                        <tr class="table-secondary">
+                            <th>Ref</th>
+                            <th>Name</th>
+                            <th>Email</th>
+                            <th>Role</th>
+                            <th>Is Active</th>
+                            <th>Updated At</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (ViewBag.AllUsers != null)
+                        {
+                            foreach (var u in ViewBag.AllUsers)
+                            {
+                                <tr>
+                                    <td>@u.ID</td>
+                                    <td>@u.Name</td>
+                                    <td>@u.Email</td>
+                                    <td>
+                                        <span class="badge
+                                            @(u.Role == "Admin"    ? "bg-danger"  :
+                                              u.Role == "Manager"  ? "bg-warning text-dark" :
+                                              u.Role == "Employee" ? "bg-primary" : "bg-secondary")">
+                                            @u.Role
+                                        </span>
+                                    </td>
+                                    <td>
+                                        @if (u.IsActive)
+                                        { <span class="badge bg-success">Active</span> }
+                                        else
+                                        { <span class="badge bg-secondary">Inactive</span> }
+                                    </td>
+                                    <td class="text-muted small">@u.UpdatedAt.ToString("dd/MM/yyyy HH:mm")</td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
