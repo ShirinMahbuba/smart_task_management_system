@@ -47,3 +47,4 @@ C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\STMS.Entities
 C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\refint\STMS.Entities.dll
 C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\STMS.Entities.pdb
 C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\ref\STMS.Entities.dll
+D:\Downloads\STMS\STMS.Entities\obj\Debug\net8.0\STMS.Entities.csproj.AssemblyReference.cache

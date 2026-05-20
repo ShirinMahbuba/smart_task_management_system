@@ -2,6 +2,7 @@ using STMS.Data;
 using STMS.Repos;
 using STMS.Web;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 
 internal class Program
 {
@@ -11,7 +12,7 @@ internal class Program
 
         builder.Services.AddControllersWithViews();
         builder.Services.AddControllers();
-        builder.Services.AddAutoMapper(typeof(MappingProfile));
+        builder.Services.AddAutoMapper(cfg => cfg.AddProfile<MappingProfile>());
 
         builder.Services.AddDbContext<StmsDbContext>(opt =>
             opt.UseSqlServer(builder.Configuration.GetConnectionString("StmsDbContext")));

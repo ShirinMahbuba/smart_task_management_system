@@ -19,7 +19,7 @@ namespace STMS.Repos
                     result.Data = user;
                     try
                     {
-                        context.ActivityLogs.Add(new ActivityLog { UserID = user.ID, Action = $"User logged in ({user.Email})", LogTime = DateTime.Now, UpdatedBy = user.ID });
+                        context.ActivityLogs.Add(new ActivityLog { UserID = user.ID, Action = $"User logged in ({user.Email})", LogTime = DateTime.Now });
                         context.SaveChanges();
                     }
                     catch { }
@@ -43,7 +43,7 @@ namespace STMS.Repos
                 context.SaveChanges();
                 try
                 {
-                    context.ActivityLogs.Add(new ActivityLog { UserID = newUser.ID, Action = $"New account registered ({newUser.Email})", LogTime = DateTime.Now, UpdatedBy = newUser.ID });
+                    context.ActivityLogs.Add(new ActivityLog { UserID = newUser.ID, Action = $"New account registered ({newUser.Email})", LogTime = DateTime.Now });
                     context.SaveChanges();
                 }
                 catch { }
@@ -64,7 +64,7 @@ namespace STMS.Repos
                 context.SaveChanges();
                 try
                 {
-                    context.ActivityLogs.Add(new ActivityLog { UserID = user.ID, Action = $"Password reset ({user.Email})", LogTime = DateTime.Now, UpdatedBy = user.ID });
+                    context.ActivityLogs.Add(new ActivityLog { UserID = user.ID, Action = $"Password reset ({user.Email})", LogTime = DateTime.Now });
                     context.SaveChanges();
                 }
                 catch { }
@@ -107,7 +107,7 @@ namespace STMS.Repos
                 context.SaveChanges();
                 try
                 {
-                    context.ActivityLogs.Add(new ActivityLog { UserID = loggedInUserId, Action = $"Saved User#{objToSave.ID} ({objToSave.Name})", LogTime = DateTime.Now, UpdatedBy = loggedInUserId });
+                    context.ActivityLogs.Add(new ActivityLog { UserID = loggedInUserId, Action = $"Saved User#{objToSave.ID} ({objToSave.Name})", LogTime = DateTime.Now });
                     context.SaveChanges();
                 }
                 catch { }
@@ -126,7 +126,7 @@ namespace STMS.Repos
                 if (objToDelete == null) { result.HasError = true; result.Message = "User Not Found"; return result; }
                 try
                 {
-                    context.ActivityLogs.Add(new ActivityLog { UserID = loggedInUserId, Action = $"Deleted User#{id} ({objToDelete.Name})", LogTime = DateTime.Now, UpdatedBy = loggedInUserId });
+                    context.ActivityLogs.Add(new ActivityLog { UserID = loggedInUserId, Action = $"Deleted User#{id} ({objToDelete.Name})", LogTime = DateTime.Now });
                 }
                 catch { }
                 context.Users.Remove(objToDelete);

@@ -622,3 +622,9 @@ C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.pdb
 C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.genruntimeconfig.cache
 C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\ref\STMS.Web.dll
 C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Web.staticwebassets.runtime.json
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Web.staticwebassets.runtime.json
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\AutoMapper.dll
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.DTOs.dll
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.DTOs.pdb

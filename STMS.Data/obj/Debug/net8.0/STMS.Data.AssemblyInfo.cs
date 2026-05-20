@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STMS.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5256f35e6ca11204964180489f0c9c8664d03a49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2884891b5e069940aab553c1eb735bdb9f0540c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("STMS.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STMS.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

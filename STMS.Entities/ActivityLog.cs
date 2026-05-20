@@ -14,12 +14,10 @@ namespace STMS.Entities
         [StringLength(255)]
         public string? Action { get; set; }
 
-        [Column("TimeStamp")]
-        public DateTime LogTime { get; set; } = DateTime.Now;
-
-        public int? UpdatedBy { get; set; }
+        public DateTime LogTime { get; set; }
 
         [ForeignKey("UserID")]
         public virtual User? User { get; set; }
     }
 }
+

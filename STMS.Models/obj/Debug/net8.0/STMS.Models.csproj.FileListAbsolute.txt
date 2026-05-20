@@ -47,3 +47,4 @@ C:\Users\user\Desktop\New folder\ok\STMS.Models\obj\Debug\net8.0\STMS.Models.dll
 C:\Users\user\Desktop\New folder\ok\STMS.Models\obj\Debug\net8.0\refint\STMS.Models.dll
 C:\Users\user\Desktop\New folder\ok\STMS.Models\obj\Debug\net8.0\STMS.Models.pdb
 C:\Users\user\Desktop\New folder\ok\STMS.Models\obj\Debug\net8.0\ref\STMS.Models.dll
+D:\Downloads\STMS\STMS.Models\obj\Debug\net8.0\STMS.Models.csproj.AssemblyReference.cache

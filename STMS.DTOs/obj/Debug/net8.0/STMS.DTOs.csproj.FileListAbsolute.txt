@@ -24,3 +24,16 @@ C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.dll
 C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\refint\STMS.DTOs.dll
 C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.pdb
 C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\ref\STMS.DTOs.dll
+D:\Downloads\STMS\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.deps.json
+D:\Downloads\STMS\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.dll
+D:\Downloads\STMS\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.pdb
+D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.csproj.AssemblyReference.cache
+D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.AssemblyInfoInputs.cache
+D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.AssemblyInfo.cs
+D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.csproj.CoreCompileInputs.cache
+D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.sourcelink.json
+D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.dll
+D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\refint\STMS.DTOs.dll
+D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.pdb
+D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\ref\STMS.DTOs.dll
