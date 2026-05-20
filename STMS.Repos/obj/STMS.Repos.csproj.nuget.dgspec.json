@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj": {}
+    "D:\\GitHub\\smart_task_management_system\\STMS.Repos\\STMS.Repos.csproj": {}
   },
   "projects": {
-    "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj": {
+    "D:\\GitHub\\smart_task_management_system\\STMS.Data\\STMS.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj",
+        "projectUniqueName": "D:\\GitHub\\smart_task_management_system\\STMS.Data\\STMS.Data.csproj",
         "projectName": "STMS.Data",
-        "projectPath": "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj",
-        "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS\\STMS.Data\\obj\\",
+        "projectPath": "D:\\GitHub\\smart_task_management_system\\STMS.Data\\STMS.Data.csproj",
+        "packagesPath": "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\smart_task_management_system\\STMS.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS ZenBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP.LAPTOP-38T9T12D\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj"
+              "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\STMS.Entities.csproj": {
+                "projectPath": "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\STMS.Entities.csproj"
               }
             }
           }
@@ -48,8 +48,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -90,24 +89,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Downloads\\STMS\\STMS.DTOs\\STMS.DTOs.csproj": {
+    "D:\\GitHub\\smart_task_management_system\\STMS.DTOs\\STMS.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.DTOs\\STMS.DTOs.csproj",
+        "projectUniqueName": "D:\\GitHub\\smart_task_management_system\\STMS.DTOs\\STMS.DTOs.csproj",
         "projectName": "STMS.DTOs",
-        "projectPath": "D:\\Downloads\\STMS\\STMS.DTOs\\STMS.DTOs.csproj",
-        "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS\\STMS.DTOs\\obj\\",
+        "projectPath": "D:\\GitHub\\smart_task_management_system\\STMS.DTOs\\STMS.DTOs.csproj",
+        "packagesPath": "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\smart_task_management_system\\STMS.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS ZenBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP.LAPTOP-38T9T12D\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -134,8 +133,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -162,24 +160,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
+    "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\STMS.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj",
+        "projectUniqueName": "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\STMS.Entities.csproj",
         "projectName": "STMS.Entities",
-        "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj",
-        "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS\\STMS.Entities\\obj\\",
+        "projectPath": "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\STMS.Entities.csproj",
+        "packagesPath": "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS ZenBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP.LAPTOP-38T9T12D\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -206,8 +204,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -234,24 +231,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj": {
+    "D:\\GitHub\\smart_task_management_system\\STMS.Models\\STMS.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj",
+        "projectUniqueName": "D:\\GitHub\\smart_task_management_system\\STMS.Models\\STMS.Models.csproj",
         "projectName": "STMS.Models",
-        "projectPath": "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj",
-        "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS\\STMS.Models\\obj\\",
+        "projectPath": "D:\\GitHub\\smart_task_management_system\\STMS.Models\\STMS.Models.csproj",
+        "packagesPath": "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\smart_task_management_system\\STMS.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS ZenBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP.LAPTOP-38T9T12D\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -278,8 +275,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -306,24 +302,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj": {
+    "D:\\GitHub\\smart_task_management_system\\STMS.Repos\\STMS.Repos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj",
+        "projectUniqueName": "D:\\GitHub\\smart_task_management_system\\STMS.Repos\\STMS.Repos.csproj",
         "projectName": "STMS.Repos",
-        "projectPath": "D:\\Downloads\\STMS\\STMS.Repos\\STMS.Repos.csproj",
-        "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS\\STMS.Repos\\obj\\",
+        "projectPath": "D:\\GitHub\\smart_task_management_system\\STMS.Repos\\STMS.Repos.csproj",
+        "packagesPath": "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\smart_task_management_system\\STMS.Repos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS ZenBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP.LAPTOP-38T9T12D\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -339,20 +335,20 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Data\\STMS.Data.csproj"
+              "D:\\GitHub\\smart_task_management_system\\STMS.Data\\STMS.Data.csproj": {
+                "projectPath": "D:\\GitHub\\smart_task_management_system\\STMS.Data\\STMS.Data.csproj"
               },
-              "D:\\Downloads\\STMS\\STMS.DTOs\\STMS.DTOs.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.DTOs\\STMS.DTOs.csproj"
+              "D:\\GitHub\\smart_task_management_system\\STMS.DTOs\\STMS.DTOs.csproj": {
+                "projectPath": "D:\\GitHub\\smart_task_management_system\\STMS.DTOs\\STMS.DTOs.csproj"
               },
-              "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj"
+              "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\STMS.Entities.csproj": {
+                "projectPath": "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\STMS.Entities.csproj"
               },
-              "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Models\\STMS.Models.csproj"
+              "D:\\GitHub\\smart_task_management_system\\STMS.Models\\STMS.Models.csproj": {
+                "projectPath": "D:\\GitHub\\smart_task_management_system\\STMS.Models\\STMS.Models.csproj"
               },
-              "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj"
+              "D:\\GitHub\\smart_task_management_system\\STMS.Shared\\STMS.Shared.csproj": {
+                "projectPath": "D:\\GitHub\\smart_task_management_system\\STMS.Shared\\STMS.Shared.csproj"
               }
             }
           }
@@ -366,8 +362,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -394,24 +389,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj": {
+    "D:\\GitHub\\smart_task_management_system\\STMS.Shared\\STMS.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj",
+        "projectUniqueName": "D:\\GitHub\\smart_task_management_system\\STMS.Shared\\STMS.Shared.csproj",
         "projectName": "STMS.Shared",
-        "projectPath": "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj",
-        "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\STMS\\STMS.Shared\\obj\\",
+        "projectPath": "D:\\GitHub\\smart_task_management_system\\STMS.Shared\\STMS.Shared.csproj",
+        "packagesPath": "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\smart_task_management_system\\STMS.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS ZenBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP.LAPTOP-38T9T12D\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -427,8 +422,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj": {
-                "projectPath": "D:\\Downloads\\STMS\\STMS.Entities\\STMS.Entities.csproj"
+              "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\STMS.Entities.csproj": {
+                "projectPath": "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\STMS.Entities.csproj"
               }
             }
           }
@@ -442,8 +437,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -470,7 +464,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -11,21 +11,19 @@ namespace STMS.Entities
 
         [Required]
         [StringLength(250)]
-        public string Title { get; set; } = null!;
+        public string ProjectName { get; set; } = null!;
 
         public string? Description { get; set; }
 
-        [StringLength(20)]
-        public string Status { get; set; } = "Active";
-
         public int? CreatedBy { get; set; }
-        public DateTime CreatedAt { get; set; } = DateTime.Now;
+        public DateTime StartDate { get; set; }
+        public DateTime EndDate { get; set; }
         public DateTime UpdatedAt { get; set; }
         public int UpdatedBy { get; set; }
 
         [ForeignKey("CreatedBy")]
         public virtual User? Creator { get; set; }
 
-        public virtual ICollection<Task> Tasks { get; set; } = new List<Task>();
+        public virtual List<Task> Tasks { get; set; } = new List<Task>();
     }
 }

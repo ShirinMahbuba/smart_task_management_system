@@ -21,7 +21,8 @@ internal class Program
         builder.Services.AddScoped<TaskRepo>();          
         builder.Services.AddScoped<TaskStepRepo>();    
         builder.Services.AddScoped<CommentRepo>();       
-        builder.Services.AddScoped<AttachmentRepo>();    
+        builder.Services.AddScoped<AttachmentRepo>();
+        builder.Services.AddScoped<ProjectRepo>();
 
         builder.Services.AddAuthentication("StmsAuth")
             .AddCookie("StmsAuth", options =>

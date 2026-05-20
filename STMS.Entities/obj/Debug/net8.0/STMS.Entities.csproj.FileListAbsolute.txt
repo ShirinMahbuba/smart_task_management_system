@@ -48,3 +48,16 @@ C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\refint\STMS.E
 C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\STMS.Entities.pdb
 C:\Users\user\Desktop\New folder\ok\STMS.Entities\obj\Debug\net8.0\ref\STMS.Entities.dll
 D:\Downloads\STMS\STMS.Entities\obj\Debug\net8.0\STMS.Entities.csproj.AssemblyReference.cache
+D:\GitHub\smart_task_management_system\STMS.Entities\bin\Debug\net8.0\STMS.Entities.deps.json
+D:\GitHub\smart_task_management_system\STMS.Entities\bin\Debug\net8.0\STMS.Entities.dll
+D:\GitHub\smart_task_management_system\STMS.Entities\bin\Debug\net8.0\STMS.Entities.pdb
+D:\GitHub\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.csproj.AssemblyReference.cache
+D:\GitHub\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.AssemblyInfoInputs.cache
+D:\GitHub\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.AssemblyInfo.cs
+D:\GitHub\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.csproj.CoreCompileInputs.cache
+D:\GitHub\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.sourcelink.json
+D:\GitHub\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.dll
+D:\GitHub\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\refint\STMS.Entities.dll
+D:\GitHub\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\STMS.Entities.pdb
+D:\GitHub\smart_task_management_system\STMS.Entities\obj\Debug\net8.0\ref\STMS.Entities.dll

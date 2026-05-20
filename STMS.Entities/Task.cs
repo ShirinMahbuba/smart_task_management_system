@@ -28,11 +28,11 @@ namespace STMS.Entities
         [ForeignKey("ProjectID")]
         public virtual Project? Project { get; set; }
 
-        public virtual ICollection<TaskAssignment> TaskAssignments { get; set; } = new List<TaskAssignment>();
-        public virtual ICollection<TaskStep> TaskSteps { get; set; } = new List<TaskStep>();
-        public virtual ICollection<TaskDependency> TaskDependencies { get; set; } = new List<TaskDependency>();
-        public virtual ICollection<Attachment> Attachments { get; set; } = new List<Attachment>();
-        public virtual ICollection<Comment> Comments { get; set; } = new List<Comment>();
+        public virtual List<TaskAssignment> TaskAssignments { get; set; } = new List<TaskAssignment>();
+        public virtual List<TaskStep> TaskSteps { get; set; } = new List<TaskStep>();
+        public virtual List<TaskDependency> TaskDependencies { get; set; } = new List<TaskDependency>();
+        public virtual List<Attachment> Attachments { get; set; } = new List<Attachment>();
+        public virtual List<Comment> Comments { get; set; } = new List<Comment>();
         public bool Deleted { get; set; }
         
         public string? Status { get; set; }

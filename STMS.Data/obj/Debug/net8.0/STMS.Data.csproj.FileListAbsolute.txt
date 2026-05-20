@@ -69,3 +69,21 @@ C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\refint\STMS.Data.
 C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\STMS.Data.pdb
 C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\STMS.Data.genruntimeconfig.cache
 C:\Users\user\Desktop\New folder\ok\STMS.Data\obj\Debug\net8.0\ref\STMS.Data.dll
+D:\GitHub\smart_task_management_system\STMS.Data\bin\Debug\net8.0\STMS.Data.deps.json
+D:\GitHub\smart_task_management_system\STMS.Data\bin\Debug\net8.0\STMS.Data.runtimeconfig.json
+D:\GitHub\smart_task_management_system\STMS.Data\bin\Debug\net8.0\STMS.Data.dll
+D:\GitHub\smart_task_management_system\STMS.Data\bin\Debug\net8.0\STMS.Data.pdb
+D:\GitHub\smart_task_management_system\STMS.Data\bin\Debug\net8.0\STMS.Entities.dll
+D:\GitHub\smart_task_management_system\STMS.Data\bin\Debug\net8.0\STMS.Entities.pdb
+D:\GitHub\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.csproj.AssemblyReference.cache
+D:\GitHub\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.AssemblyInfoInputs.cache
+D:\GitHub\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.AssemblyInfo.cs
+D:\GitHub\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.csproj.CoreCompileInputs.cache
+D:\GitHub\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.sourcelink.json
+D:\GitHub\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.csproj.Up2Date
+D:\GitHub\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.dll
+D:\GitHub\smart_task_management_system\STMS.Data\obj\Debug\net8.0\refint\STMS.Data.dll
+D:\GitHub\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.pdb
+D:\GitHub\smart_task_management_system\STMS.Data\obj\Debug\net8.0\STMS.Data.genruntimeconfig.cache
+D:\GitHub\smart_task_management_system\STMS.Data\obj\Debug\net8.0\ref\STMS.Data.dll

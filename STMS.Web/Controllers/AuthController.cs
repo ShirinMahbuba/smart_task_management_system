@@ -40,8 +40,10 @@ namespace STMS.Web.Controllers
 
             if (result.Data.Role.ToLower() == "admin")
                 return RedirectToAction("Index", "Admin");
-                    if (result.Data.Role.ToLower() == "employee")
+            if (result.Data.Role.ToLower() == "employee")
                 return RedirectToAction("Index", "Dashboard");
+                if (result.Data.Role.ToLower() == "manager")
+                return RedirectToAction("Index", "Manager");
             else
                 return RedirectToAction("Index", "Home");
         }

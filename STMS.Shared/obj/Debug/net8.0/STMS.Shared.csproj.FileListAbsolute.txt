@@ -61,3 +61,19 @@ C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\STMS.Shared.dll
 C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\refint\STMS.Shared.dll
 C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\STMS.Shared.pdb
 C:\Users\user\Desktop\New folder\ok\STMS.Shared\obj\Debug\net8.0\ref\STMS.Shared.dll
+D:\GitHub\smart_task_management_system\STMS.Shared\bin\Debug\net8.0\STMS.Shared.deps.json
+D:\GitHub\smart_task_management_system\STMS.Shared\bin\Debug\net8.0\STMS.Shared.dll
+D:\GitHub\smart_task_management_system\STMS.Shared\bin\Debug\net8.0\STMS.Shared.pdb
+D:\GitHub\smart_task_management_system\STMS.Shared\bin\Debug\net8.0\STMS.Entities.dll
+D:\GitHub\smart_task_management_system\STMS.Shared\bin\Debug\net8.0\STMS.Entities.pdb
+D:\GitHub\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.csproj.AssemblyReference.cache
+D:\GitHub\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.AssemblyInfoInputs.cache
+D:\GitHub\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.AssemblyInfo.cs
+D:\GitHub\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.csproj.CoreCompileInputs.cache
+D:\GitHub\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.sourcelink.json
+D:\GitHub\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Sha.EE68887C.Up2Date
+D:\GitHub\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.dll
+D:\GitHub\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\refint\STMS.Shared.dll
+D:\GitHub\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\STMS.Shared.pdb
+D:\GitHub\smart_task_management_system\STMS.Shared\obj\Debug\net8.0\ref\STMS.Shared.dll

@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "aHWaGhSPmkg=",
+  "dgSpecHash": "LPGPObVbRzA=",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\STMS\\STMS.Shared\\STMS.Shared.csproj",
+  "projectFilePath": "D:\\GitHub\\smart_task_management_system\\STMS.Shared\\STMS.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\automapper\\16.1.1\\automapper.16.1.1.nupkg.sha512",
-    "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
-    "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
-    "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
-    "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.14.0\\microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
-    "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
-    "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
-    "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512"
+    "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\automapper\\16.1.1\\automapper.16.1.1.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.14.0\\microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-38T9T12D\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512"
   ],
   "logs": []
 }

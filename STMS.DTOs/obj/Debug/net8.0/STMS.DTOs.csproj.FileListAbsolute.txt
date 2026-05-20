@@ -37,3 +37,16 @@ D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.dll
 D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\refint\STMS.DTOs.dll
 D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.pdb
 D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\ref\STMS.DTOs.dll
+D:\GitHub\smart_task_management_system\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.deps.json
+D:\GitHub\smart_task_management_system\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.dll
+D:\GitHub\smart_task_management_system\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.pdb
+D:\GitHub\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.csproj.AssemblyReference.cache
+D:\GitHub\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.AssemblyInfoInputs.cache
+D:\GitHub\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.AssemblyInfo.cs
+D:\GitHub\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.csproj.CoreCompileInputs.cache
+D:\GitHub\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.sourcelink.json
+D:\GitHub\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.dll
+D:\GitHub\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\refint\STMS.DTOs.dll
+D:\GitHub\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.pdb
+D:\GitHub\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\ref\STMS.DTOs.dll

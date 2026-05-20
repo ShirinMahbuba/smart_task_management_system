@@ -48,3 +48,16 @@ C:\Users\user\Desktop\New folder\ok\STMS.Models\obj\Debug\net8.0\refint\STMS.Mod
 C:\Users\user\Desktop\New folder\ok\STMS.Models\obj\Debug\net8.0\STMS.Models.pdb
 C:\Users\user\Desktop\New folder\ok\STMS.Models\obj\Debug\net8.0\ref\STMS.Models.dll
 D:\Downloads\STMS\STMS.Models\obj\Debug\net8.0\STMS.Models.csproj.AssemblyReference.cache
+D:\GitHub\smart_task_management_system\STMS.Models\bin\Debug\net8.0\STMS.Models.deps.json
+D:\GitHub\smart_task_management_system\STMS.Models\bin\Debug\net8.0\STMS.Models.dll
+D:\GitHub\smart_task_management_system\STMS.Models\bin\Debug\net8.0\STMS.Models.pdb
+D:\GitHub\smart_task_management_system\STMS.Models\obj\Debug\net8.0\STMS.Models.csproj.AssemblyReference.cache
+D:\GitHub\smart_task_management_system\STMS.Models\obj\Debug\net8.0\STMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\smart_task_management_system\STMS.Models\obj\Debug\net8.0\STMS.Models.AssemblyInfoInputs.cache
+D:\GitHub\smart_task_management_system\STMS.Models\obj\Debug\net8.0\STMS.Models.AssemblyInfo.cs
+D:\GitHub\smart_task_management_system\STMS.Models\obj\Debug\net8.0\STMS.Models.csproj.CoreCompileInputs.cache
+D:\GitHub\smart_task_management_system\STMS.Models\obj\Debug\net8.0\STMS.Models.sourcelink.json
+D:\GitHub\smart_task_management_system\STMS.Models\obj\Debug\net8.0\STMS.Models.dll
+D:\GitHub\smart_task_management_system\STMS.Models\obj\Debug\net8.0\refint\STMS.Models.dll
+D:\GitHub\smart_task_management_system\STMS.Models\obj\Debug\net8.0\STMS.Models.pdb
+D:\GitHub\smart_task_management_system\STMS.Models\obj\Debug\net8.0\ref\STMS.Models.dll
