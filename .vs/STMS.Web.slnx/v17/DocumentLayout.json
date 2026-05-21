@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Downloads\\STMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{967D725E-541B-08D0-FCC2-78999E7A025C}|STMS.API\\STMS.API.csproj|d:\\downloads\\stms\\stms.api\\adminapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{967D725E-541B-08D0-FCC2-78999E7A025C}|STMS.API\\STMS.API.csproj|solutionrelative:stms.api\\adminapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\STMS\\STMS.API\\AdminApiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:STMS.API\\AdminApiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|d:\\downloads\\stms\\stms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,8 +30,8 @@
       "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{967D725E-541B-08D0-FCC2-78999E7A025C}|STMS.API\\STMS.API.csproj|d:\\downloads\\stms\\stms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{967D725E-541B-08D0-FCC2-78999E7A025C}|STMS.API\\STMS.API.csproj|solutionrelative:stms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\STMS\\STMS.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:STMS.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,8 +82,7 @@
               "RelativeToolTip": "STMS.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAHUAAAAAVpUFZLYjwIUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-20T17:50:23.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T17:50:23.073Z"
             },
             {
               "$type": "Document",

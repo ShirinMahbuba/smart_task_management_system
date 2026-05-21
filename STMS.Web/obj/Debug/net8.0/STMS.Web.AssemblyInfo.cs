@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STMS.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c5a036e912530472a430a705350796e7b8baced")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e072037f3f4cf2f9025b14d043cceeeb328436c")]
 [assembly: System.Reflection.AssemblyProductAttribute("STMS.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STMS.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
