@@ -82,6 +82,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/GitHub/smart_task_management_system/STMS.Web/Views/Project/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/GitHub/smart_task_management_system/STMS.Web/Views/Project/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -100,6 +104,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/GitHub/smart_task_management_system/STMS.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/smart_task_management_system/STMS.Web/Views/TaskManager/EditTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza01hbmFnZXJcRWRpdFRhc2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/GitHub/smart_task_management_system/STMS.Web/Views/TaskStep/Update.cshtml]

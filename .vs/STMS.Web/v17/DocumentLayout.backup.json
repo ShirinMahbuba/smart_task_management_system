@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "D:\\GitHub\\smart_task_management_system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|d:\\github\\smart_task_management_system\\stms.web\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|d:\\github\\smart_task_management_system\\stms.repos\\taskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|solutionrelative:stms.repos\\taskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|d:\\github\\smart_task_management_system\\stms.repos\\commentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|solutionrelative:stms.repos\\commentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|d:\\github\\smart_task_management_system\\stms.web\\controllers\\taskmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\controllers\\taskmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|d:\\github\\smart_task_management_system\\stms.repos\\projectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|solutionrelative:stms.repos\\projectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|d:\\github\\smart_task_management_system\\stms.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|d:\\github\\smart_task_management_system\\stms.web\\views\\project\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\views\\project\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|d:\\github\\smart_task_management_system\\stms.web\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|d:\\github\\smart_task_management_system\\stms.web\\views\\taskmanager\\edittask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\views\\taskmanager\\edittask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|d:\\github\\smart_task_management_system\\stms.entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|d:\\github\\smart_task_management_system\\stms.entities\\taskdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\taskdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|d:\\github\\smart_task_management_system\\stms.web\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|d:\\github\\smart_task_management_system\\stms.repos\\projectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|solutionrelative:stms.repos\\projectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|d:\\github\\smart_task_management_system\\stms.entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,69 +54,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CommentRepo.cs",
-              "DocumentMoniker": "D:\\GitHub\\smart_task_management_system\\STMS.Repos\\CommentRepo.cs",
-              "RelativeDocumentMoniker": "STMS.Repos\\CommentRepo.cs",
-              "ToolTip": "D:\\GitHub\\smart_task_management_system\\STMS.Repos\\CommentRepo.cs",
-              "RelativeToolTip": "STMS.Repos\\CommentRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T19:17:05.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Views\\Project\\Index.cshtml",
-              "RelativeDocumentMoniker": "STMS.Web\\Views\\Project\\Index.cshtml",
-              "ToolTip": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Views\\Project\\Index.cshtml",
-              "RelativeToolTip": "STMS.Web\\Views\\Project\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "EditTask.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Views\\TaskManager\\EditTask.cshtml",
+              "RelativeDocumentMoniker": "STMS.Web\\Views\\TaskManager\\EditTask.cshtml",
+              "ToolTip": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Views\\TaskManager\\EditTask.cshtml",
+              "RelativeToolTip": "STMS.Web\\Views\\TaskManager\\EditTask.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-20T19:27:21.8Z",
+              "WhenOpened": "2026-05-20T22:18:38.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "TaskManagerController.cs",
+              "DocumentMoniker": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Controllers\\TaskManagerController.cs",
+              "RelativeDocumentMoniker": "STMS.Web\\Controllers\\TaskManagerController.cs",
+              "ToolTip": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Controllers\\TaskManagerController.cs",
+              "RelativeToolTip": "STMS.Web\\Controllers\\TaskManagerController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAEwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:37:51.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProjectController.cs",
               "DocumentMoniker": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "STMS.Web\\Controllers\\ProjectController.cs",
               "ToolTip": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Controllers\\ProjectController.cs",
               "RelativeToolTip": "STMS.Web\\Controllers\\ProjectController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T19:22:32.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Views\\Project\\Detail.cshtml",
+              "RelativeDocumentMoniker": "STMS.Web\\Views\\Project\\Detail.cshtml",
+              "ToolTip": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Views\\Project\\Detail.cshtml",
+              "RelativeToolTip": "STMS.Web\\Views\\Project\\Detail.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T20:15:59.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\Task.cs",
+              "RelativeDocumentMoniker": "STMS.Entities\\Task.cs",
+              "ToolTip": "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\Task.cs",
+              "RelativeToolTip": "STMS.Entities\\Task.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:53:43.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskRepo.cs",
+              "DocumentMoniker": "D:\\GitHub\\smart_task_management_system\\STMS.Repos\\TaskRepo.cs",
+              "RelativeDocumentMoniker": "STMS.Repos\\TaskRepo.cs",
+              "ToolTip": "D:\\GitHub\\smart_task_management_system\\STMS.Repos\\TaskRepo.cs",
+              "RelativeToolTip": "STMS.Repos\\TaskRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:50:37.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "STMS.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "STMS.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T00:06:45.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskDependency.cs",
+              "DocumentMoniker": "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\TaskDependency.cs",
+              "RelativeDocumentMoniker": "STMS.Entities\\TaskDependency.cs",
+              "ToolTip": "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\TaskDependency.cs",
+              "RelativeToolTip": "STMS.Entities\\TaskDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:00:40.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "STMS.Web\\Views\\Project\\Index.cshtml",
+              "ToolTip": "D:\\GitHub\\smart_task_management_system\\STMS.Web\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "STMS.Web\\Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T19:27:21.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ProjectRepo.cs",
               "DocumentMoniker": "D:\\GitHub\\smart_task_management_system\\STMS.Repos\\ProjectRepo.cs",
               "RelativeDocumentMoniker": "STMS.Repos\\ProjectRepo.cs",
               "ToolTip": "D:\\GitHub\\smart_task_management_system\\STMS.Repos\\ProjectRepo.cs",
               "RelativeToolTip": "STMS.Repos\\ProjectRepo.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwEMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T19:17:13.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Project.cs",
               "DocumentMoniker": "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\Project.cs",
               "RelativeDocumentMoniker": "STMS.Entities\\Project.cs",
               "ToolTip": "D:\\GitHub\\smart_task_management_system\\STMS.Entities\\Project.cs",
               "RelativeToolTip": "STMS.Entities\\Project.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T19:20:53.299Z",
               "EditorCaption": ""

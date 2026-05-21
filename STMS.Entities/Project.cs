@@ -1,3 +1,4 @@
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -11,12 +12,15 @@ namespace STMS.Entities
 
         [Required]
         [StringLength(250)]
+        [DisplayName("Project Name")]
         public string ProjectName { get; set; } = null!;
 
         public string? Description { get; set; }
 
         public int? CreatedBy { get; set; }
+        [DisplayName("Start Date")]
         public DateTime StartDate { get; set; }
+        [DisplayName("End Date")]
         public DateTime EndDate { get; set; }
         public DateTime UpdatedAt { get; set; }
         public int UpdatedBy { get; set; }

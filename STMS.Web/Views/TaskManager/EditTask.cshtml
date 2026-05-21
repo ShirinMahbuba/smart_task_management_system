@@ -1,0 +1,110 @@
+﻿@model STMS.Entities.Task
+
+<partial name="_Message" />
+
+<div class="container border mt-4 p-4">
+    <div class="row">
+        <div class="col-12">
+            @if (Model == null || Model.ID == 0)
+            {
+                <h2>Add new task</h2>
+            }
+            else
+            {
+                <h2>
+                    Task # @Model.ID
+                </h2>
+            }
+        </div>
+    </div>
+
+    <form method="post" asp-action="EditTask" asp-controller="TaskManager">
+        <input type="hidden" asp-for="ID" />
+        <input type="hidden" asp-for="ProjectID" />
+        <input type="hidden" asp-for="Status" />
+
+        <div class="row mb-3">
+            <label asp-for="Title" class="form-label"></label>
+            <input asp-for="Title" class="form-control" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="Description" class="form-label"></label>
+            <textarea asp-for="Description" class="form-control"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="DueDate" class="form-label"></label>
+            <input asp-for="DueDate" type="date" class="form-control" />
+            <span asp-validation-for="DueDate" class="text-danger"></span>
+        </div>
+
+        @if ((Model.TaskAssignments?.Count ?? 0) > 0)
+
+        {
+
+            foreach (var item in Model.TaskAssignments)
+
+            {
+                <div class="row mb-3">
+                    <div class="col-12">
+                        <a asp-action="DeleteTaskAssignment" asp-controller="TaskManager" asp-route-TaskID="@Model.ID" asp-route-assignmentID="@item.ID">
+                            <i class="bi bi-pencil-square"></i> &nbsp; @item.User!.Name
+                        </a>
+                    </div>
+                </div>
+            }
+
+        }
+        @if (ViewBag.Employees != null)
+
+        {
+            <div class="row mb-3">
+                <label class="form-label">Add Assignee</label>
+                <select name="NewAssigneeID" class="form-select">
+                    <option value="">-- Select Employee --</option>
+                    @foreach (var emp in (List<STMS.Entities.User>)ViewBag.Employees)
+                    {
+
+
+                        if (Model.TaskAssignments == null || !Model.TaskAssignments.Any(a => a.UserID == emp.ID))
+
+                        {
+                            <option value="@emp.ID">@emp.Name</option>
+                        }
+                    }
+                </select>
+            </div>
+        }
+
+        <div class="row mb-3">
+            <label asp-for="Priority" class="form-label"></label>
+            <select asp-for="Priority" class="form-select">
+                <option value="Low">Low</option>
+                <option value="Medium">Medium</option>
+                <option value="High">High</option>
+            </select>
+            <span asp-validation-for="Priority" class="text-danger"></span>
+        </div>
+
+        <div>
+            <div class="col-6">
+                <button type="submit" class="btn btn-primary">
+                    <i class="bi bi-floppy2"></i> &nbsp; Save
+                </button>
+                &nbsp;
+                <a asp-action="Index" asp-controller="Project">
+                    <i class="bi bi-arrow-left-circle-fill"></i> &nbsp; Back to list
+                </a>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts
+
+{
+    <partial name="_ValidationScriptsPartial" />
+}

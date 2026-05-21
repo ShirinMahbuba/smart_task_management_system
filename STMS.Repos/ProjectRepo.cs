@@ -35,7 +35,10 @@ namespace STMS.Repos
             var result = new Result<Project>();
             try
             {
-                result.Data = context.Projects.Find(id);
+                result.Data = context.Projects
+                    .Include(e => e.Tasks)
+                    .Include(e => e.Creator)
+                    .FirstOrDefault(e=> e.ID == id);
             }
             catch (Exception ex)
             {
@@ -91,7 +94,7 @@ namespace STMS.Repos
                     objToSave.StartDate = project.StartDate;
                     objToSave.EndDate = project.EndDate;
                     objToSave.UpdatedAt = DateTime.Now;
-                    objToSave.UpdatedBy = project.UpdatedBy;
+                    objToSave.UpdatedBy = 1;
                     context.Projects.Update(objToSave);
                 }
                 else
@@ -100,11 +103,11 @@ namespace STMS.Repos
                     {
                         ProjectName = project.ProjectName,
                         Description = project.Description,
-                        CreatedBy = project.CreatedBy,
+                        CreatedBy = 1,
                         StartDate = project.StartDate,
                         EndDate = project.EndDate,
                         UpdatedAt = DateTime.Now,
-                        UpdatedBy = project.UpdatedBy
+                        UpdatedBy = 1
                     };
                     context.Projects.Add(objToSave);
                 }
