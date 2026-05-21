@@ -1,0 +1,15 @@
+
+.vs/
+[Oo]bj/
+[Bb]in/
+*.user
+*.userosscache
+*.sln.docstates
+
+*.exe
+*.dll
+*.pdb
+
+
+.idea/
+.ionide/

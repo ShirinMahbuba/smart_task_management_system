@@ -1,39 +1,12 @@
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.deps.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.AssemblyInfo.cs
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.sourcelink.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\refint\STMS.DTOs.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.DTOs\obj\Debug\net8.0\ref\STMS.DTOs.dll
-C:\Users\user\Desktop\New folder\ok\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.deps.json
-C:\Users\user\Desktop\New folder\ok\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.dll
-C:\Users\user\Desktop\New folder\ok\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.AssemblyInfo.cs
-C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.sourcelink.json
-C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.dll
-C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\refint\STMS.DTOs.dll
-C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.DTOs\obj\Debug\net8.0\ref\STMS.DTOs.dll
-D:\Downloads\STMS\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.deps.json
-D:\Downloads\STMS\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.dll
-D:\Downloads\STMS\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.pdb
-D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.csproj.AssemblyReference.cache
-D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.GeneratedMSBuildEditorConfig.editorconfig
-D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.AssemblyInfoInputs.cache
-D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.AssemblyInfo.cs
-D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.csproj.CoreCompileInputs.cache
-D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.sourcelink.json
-D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.dll
-D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\refint\STMS.DTOs.dll
-D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.pdb
-D:\Downloads\STMS\STMS.DTOs\obj\Debug\net8.0\ref\STMS.DTOs.dll
+D:\Downloads\STMS_WithAPI\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.deps.json
+D:\Downloads\STMS_WithAPI\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.dll
+D:\Downloads\STMS_WithAPI\STMS.DTOs\bin\Debug\net8.0\STMS.DTOs.pdb
+D:\Downloads\STMS_WithAPI\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.csproj.AssemblyReference.cache
+D:\Downloads\STMS_WithAPI\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\STMS_WithAPI\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.AssemblyInfoInputs.cache
+D:\Downloads\STMS_WithAPI\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.AssemblyInfo.cs
+D:\Downloads\STMS_WithAPI\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.csproj.CoreCompileInputs.cache
+D:\Downloads\STMS_WithAPI\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.dll
+D:\Downloads\STMS_WithAPI\STMS.DTOs\obj\Debug\net8.0\refint\STMS.DTOs.dll
+D:\Downloads\STMS_WithAPI\STMS.DTOs\obj\Debug\net8.0\STMS.DTOs.pdb
+D:\Downloads\STMS_WithAPI\STMS.DTOs\obj\Debug\net8.0\ref\STMS.DTOs.dll

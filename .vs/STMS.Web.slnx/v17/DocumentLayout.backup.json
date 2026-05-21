@@ -3,20 +3,35 @@
   "WorkspaceRootPath": "D:\\Downloads\\STMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|d:\\downloads\\stms\\stms.repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|solutionrelative:stms.repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{967D725E-541B-08D0-FCC2-78999E7A025C}|STMS.API\\STMS.API.csproj|d:\\downloads\\stms\\stms.api\\adminapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967D725E-541B-08D0-FCC2-78999E7A025C}|STMS.API\\STMS.API.csproj|solutionrelative:stms.api\\adminapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|d:\\downloads\\stms\\stms.entities\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|d:\\downloads\\stms\\stms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|d:\\downloads\\stms\\stms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|d:\\downloads\\stms\\stms.repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419ABAB9-55EF-401E-11F7-79EBD9356295}|STMS.Repos\\STMS.Repos.csproj|solutionrelative:stms.repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\STMS_WithAPI\\STMS.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|d:\\downloads\\stms\\stms.entities\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D7B2C3-9DA9-8DA3-ABEE-60E09A58A236}|STMS.Entities\\STMS.Entities.csproj|solutionrelative:stms.entities\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|d:\\downloads\\stms\\stms.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1A62E896-AD68-39C9-CDA9-6FB4227D11B7}|STMS.Web\\STMS.Web.csproj|solutionrelative:stms.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967D725E-541B-08D0-FCC2-78999E7A025C}|STMS.API\\STMS.API.csproj|d:\\downloads\\stms\\stms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967D725E-541B-08D0-FCC2-78999E7A025C}|STMS.API\\STMS.API.csproj|solutionrelative:stms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +41,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserRepo.cs",
-              "DocumentMoniker": "D:\\Downloads\\STMS\\STMS.Repos\\UserRepo.cs",
-              "RelativeDocumentMoniker": "STMS.Repos\\UserRepo.cs",
-              "ToolTip": "D:\\Downloads\\STMS\\STMS.Repos\\UserRepo.cs*",
-              "RelativeToolTip": "STMS.Repos\\UserRepo.cs*",
-              "ViewState": "AgIAAAcAAAAApnzjY8shwL0AAAAuAAAAAAAAAA==",
+              "Title": "AdminApiController.cs",
+              "DocumentMoniker": "D:\\Downloads\\STMS\\STMS.API\\AdminApiController.cs",
+              "RelativeDocumentMoniker": "STMS.API\\AdminApiController.cs",
+              "ToolTip": "D:\\Downloads\\STMS\\STMS.API\\AdminApiController.cs",
+              "RelativeToolTip": "STMS.API\\AdminApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T12:36:09.705Z",
+              "WhenOpened": "2026-05-20T22:35:08.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\STMS\\STMS.API\\Program.cs",
+              "RelativeDocumentMoniker": "STMS.API\\Program.cs",
+              "ToolTip": "D:\\Downloads\\STMS\\STMS.API\\Program.cs",
+              "RelativeToolTip": "STMS.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:33:22.284Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\STMS\\STMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "STMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Downloads\\STMS\\STMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "STMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHUAAAAAVpUFZLYjwIUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T17:50:23.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\Downloads\\STMS\\STMS.Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "STMS.Repos\\UserRepo.cs",
+              "ToolTip": "D:\\Downloads\\STMS\\STMS.Repos\\UserRepo.cs",
+              "RelativeToolTip": "STMS.Repos\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:36:09.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ActivityLog.cs",
               "DocumentMoniker": "D:\\Downloads\\STMS\\STMS.Entities\\ActivityLog.cs",
               "RelativeDocumentMoniker": "STMS.Entities\\ActivityLog.cs",
@@ -51,8 +107,7 @@
               "RelativeToolTip": "STMS.Entities\\ActivityLog.cs",
               "ViewState": "AgIAAA4AAABgVdVHLAIhwAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T12:21:04.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T12:21:04.48Z"
             },
             {
               "$type": "Document",
@@ -62,13 +117,25 @@
               "RelativeDocumentMoniker": "STMS.Web\\Program.cs",
               "ToolTip": "D:\\Downloads\\STMS\\STMS.Web\\Program.cs",
               "RelativeToolTip": "STMS.Web\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAArwA4AAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T12:08:55.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\STMS_WithAPI\\STMS.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\STMS_WithAPI\\STMS.API\\Program.cs",
+              "ToolTip": "D:\\Downloads\\STMS_WithAPI\\STMS.API\\Program.cs",
+              "RelativeToolTip": "..\\STMS_WithAPI\\STMS.API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:34:06.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Downloads\\STMS\\STMS.Web\\appsettings.json",
               "RelativeDocumentMoniker": "STMS.Web\\appsettings.json",

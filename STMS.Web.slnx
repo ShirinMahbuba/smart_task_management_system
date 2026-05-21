@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="STMS.API/STMS.API.csproj" />
   <Project Path="STMS.Data/STMS.Data.csproj" />
   <Project Path="STMS.DTOs/STMS.DTOs.csproj" Id="030e9faf-c2d9-464f-8c9d-1da27469db52" />
   <Project Path="STMS.Entities/STMS.Entities.csproj" />

@@ -2,7 +2,6 @@ using STMS.Data;
 using STMS.Repos;
 using STMS.Web;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
 
 internal class Program
 {
@@ -18,10 +17,11 @@ internal class Program
             opt.UseSqlServer(builder.Configuration.GetConnectionString("StmsDbContext")));
 
         builder.Services.AddScoped<UserRepo>();
-        builder.Services.AddScoped<TaskRepo>();          
-        builder.Services.AddScoped<TaskStepRepo>();    
-        builder.Services.AddScoped<CommentRepo>();       
-        builder.Services.AddScoped<AttachmentRepo>();    
+        builder.Services.AddScoped<TaskRepo>();
+        builder.Services.AddScoped<TaskStepRepo>();
+        builder.Services.AddScoped<CommentRepo>();
+        builder.Services.AddScoped<AttachmentRepo>();
+        builder.Services.AddScoped<ViewerRepo>();   
 
         builder.Services.AddAuthentication("StmsAuth")
             .AddCookie("StmsAuth", options =>
@@ -42,8 +42,6 @@ internal class Program
             app.UseExceptionHandler("/Home/Error");
             app.UseHsts();
         }
-
-        
 
         app.UseHttpsRedirection();
         app.UseStaticFiles();

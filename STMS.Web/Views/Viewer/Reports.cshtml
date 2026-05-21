@@ -1,0 +1,86 @@
+@model ViewerReportModel
+@{
+    ViewData["Title"] = "Viewer Reports";
+}
+
+<div class="d-flex justify-content-between align-items-center pt-3">
+    <h2 class="text-primary"><i class="bi bi-graph-up me-2"></i>General Reports &amp; Analytics</h2>
+    <a class="btn btn-outline-secondary" asp-action="Index"><i class="bi bi-arrow-left me-1"></i>Dashboard</a>
+</div>
+<hr />
+
+<div class="row g-3">
+    <div class="col-md-2"><div class="card text-center p-3"><span class="text-muted">Projects</span><h2>@Model.TotalProjects</h2></div></div>
+    <div class="col-md-2"><div class="card text-center p-3"><span class="text-muted">Tasks</span><h2>@Model.TotalTasks</h2></div></div>
+    <div class="col-md-2"><div class="card text-center p-3"><span class="text-muted">Pending</span><h2>@Model.PendingTasks</h2></div></div>
+    <div class="col-md-2"><div class="card text-center p-3"><span class="text-muted">Progress</span><h2>@Model.InProgressTasks</h2></div></div>
+    <div class="col-md-2"><div class="card text-center p-3"><span class="text-muted">Done</span><h2>@Model.CompletedTasks</h2></div></div>
+    <div class="col-md-2"><div class="card text-center p-3"><span class="text-muted">Posts</span><h2>@Model.CollaborationPosts</h2></div></div>
+</div>
+
+<div class="row g-3 mt-2">
+    <div class="col-md-6">
+        <div class="card h-100">
+            <div class="card-header bg-warning fw-bold">Tasks by Status</div>
+            <div class="card-body p-0">
+                <table class="table mb-0">
+                    <tbody>
+                        @foreach (var item in Model.TasksByStatus)
+                        {
+                            <tr><td>@item.Status</td><td class="text-end"><span class="badge bg-secondary">@item.Count</span></td></tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card h-100">
+            <div class="card-header bg-info text-dark fw-bold">Tasks by Priority</div>
+            <div class="card-body p-0">
+                <table class="table mb-0">
+                    <tbody>
+                        @foreach (var item in Model.TasksByPriority)
+                        {
+                            <tr><td>@item.Priority</td><td class="text-end"><span class="badge bg-primary">@item.Count</span></td></tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card mt-3">
+    <div class="card-header bg-primary text-white fw-bold">Project Analytics</div>
+    <div class="card-body p-0">
+        <table class="table table-hover mb-0">
+            <thead class="table-light">
+                <tr>
+                    <th>Project</th>
+                    <th>Pending</th>
+                    <th>In Progress</th>
+                    <th>Completed</th>
+                    <th>Completion</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var project in Model.ProjectProgress)
+                {
+                    <tr>
+                        <td>@project.ProjectName</td>
+                        <td>@project.PendingTasks</td>
+                        <td>@project.InProgressTasks</td>
+                        <td>@project.CompletedTasks</td>
+                        <td style="min-width:220px">
+                            <div class="progress" style="height: 8px;">
+                                <div class="progress-bar bg-success" style="width:@project.CompletionPercent%"></div>
+                            </div>
+                            <span class="small text-muted">@project.CompletionPercent%</span>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

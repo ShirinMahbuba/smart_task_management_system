@@ -1,0 +1,39 @@
+@model List<ViewerPostModel>
+@{
+    ViewData["Title"] = "Discussion Board";
+}
+
+@Html.Partial("_Message")
+
+<div class="d-flex justify-content-between align-items-center pt-3">
+    <h2 class="text-primary"><i class="bi bi-chat-square-text me-2"></i>Team Discussion Board</h2>
+    <a class="btn btn-warning" asp-action="PostForm"><i class="bi bi-plus-circle me-1"></i>New Post</a>
+</div>
+<hr />
+
+<div class="row g-3">
+    @foreach (var post in Model)
+    {
+        <div class="col-md-6">
+            <div class="card h-100">
+                <div class="card-header d-flex justify-content-between">
+                    <strong>@post.Title</strong>
+                    <span class="small text-muted">@post.UpdatedAt.ToString("dd MMM yyyy")</span>
+                </div>
+                <div class="card-body">
+                    <p>@post.Content</p>
+                    <div class="small text-muted">Posted by @post.UserName</div>
+                </div>
+                <div class="card-footer text-end">
+                    <a class="btn btn-sm btn-outline-primary" asp-action="PostForm" asp-route-dataId="@post.ID">
+                        <i class="bi bi-pencil"></i>
+                    </a>
+                    <a class="btn btn-sm btn-outline-danger" asp-action="DeletePost" asp-route-dataId="@post.ID"
+                       onclick="return confirm('Delete this post?');">
+                        <i class="bi bi-trash"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

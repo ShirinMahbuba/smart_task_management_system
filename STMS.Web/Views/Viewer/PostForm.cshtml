@@ -1,0 +1,45 @@
+@model ViewerPostEditModel
+@{
+    ViewData["Title"] = Model.ID == 0 ? "Create Post" : "Edit Post";
+}
+
+<div class="row justify-content-center pt-3">
+    <div class="col-lg-8">
+        <div class="card">
+            <div class="card-header bg-primary text-white fw-bold">
+                <i class="bi bi-chat-left-text me-1"></i>@ViewData["Title"]
+            </div>
+            <div class="card-body">
+                @if (ViewBag.Error != null)
+                {
+                    <div class="alert alert-danger">@ViewBag.Error</div>
+                }
+
+                <form asp-action="PostForm" method="post">
+                    @Html.AntiForgeryToken()
+                    <input asp-for="ID" type="hidden" />
+                    <div class="mb-3">
+                        <label asp-for="Title" class="form-label"></label>
+                        <input asp-for="Title" class="form-control" />
+                        <span asp-validation-for="Title" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Content" class="form-label"></label>
+                        <textarea asp-for="Content" class="form-control" rows="6"></textarea>
+                        <span asp-validation-for="Content" class="text-danger"></span>
+                    </div>
+                    <div class="text-end">
+                        <a class="btn btn-outline-secondary" asp-action="Posts">Cancel</a>
+                        <button class="btn btn-primary" type="submit">
+                            <i class="bi bi-save me-1"></i>Save
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

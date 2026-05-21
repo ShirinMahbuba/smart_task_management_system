@@ -1,93 +1,23 @@
-D:\Downloads\STMS_Patched\STMS.Repos\bin\Debug\net8.0\STMS.Repos.deps.json
-D:\Downloads\STMS_Patched\STMS.Repos\bin\Debug\net8.0\STMS.Repos.dll
-D:\Downloads\STMS_Patched\STMS.Repos\bin\Debug\net8.0\STMS.Repos.pdb
-D:\Downloads\STMS_Patched\STMS.Repos\bin\Debug\net8.0\STMS.Data.dll
-D:\Downloads\STMS_Patched\STMS.Repos\bin\Debug\net8.0\STMS.Entities.dll
-D:\Downloads\STMS_Patched\STMS.Repos\bin\Debug\net8.0\STMS.Models.dll
-D:\Downloads\STMS_Patched\STMS.Repos\bin\Debug\net8.0\STMS.Shared.dll
-D:\Downloads\STMS_Patched\STMS.Repos\bin\Debug\net8.0\STMS.Data.pdb
-D:\Downloads\STMS_Patched\STMS.Repos\bin\Debug\net8.0\STMS.Entities.pdb
-D:\Downloads\STMS_Patched\STMS.Repos\bin\Debug\net8.0\STMS.Models.pdb
-D:\Downloads\STMS_Patched\STMS.Repos\bin\Debug\net8.0\STMS.Shared.pdb
-D:\Downloads\STMS_Patched\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.AssemblyReference.cache
-D:\Downloads\STMS_Patched\STMS.Repos\obj\Debug\net8.0\STMS.Repos.GeneratedMSBuildEditorConfig.editorconfig
-D:\Downloads\STMS_Patched\STMS.Repos\obj\Debug\net8.0\STMS.Repos.AssemblyInfoInputs.cache
-D:\Downloads\STMS_Patched\STMS.Repos\obj\Debug\net8.0\STMS.Repos.AssemblyInfo.cs
-D:\Downloads\STMS_Patched\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.CoreCompileInputs.cache
-D:\Downloads\STMS_Patched\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.Up2Date
-D:\Downloads\STMS_Patched\STMS.Repos\obj\Debug\net8.0\STMS.Repos.dll
-D:\Downloads\STMS_Patched\STMS.Repos\obj\Debug\net8.0\refint\STMS.Repos.dll
-D:\Downloads\STMS_Patched\STMS.Repos\obj\Debug\net8.0\STMS.Repos.pdb
-D:\Downloads\STMS_Patched\STMS.Repos\obj\Debug\net8.0\ref\STMS.Repos.dll
-D:\Downloads\STMS\STMS.Repos\bin\Debug\net8.0\STMS.Repos.deps.json
-D:\Downloads\STMS\STMS.Repos\bin\Debug\net8.0\STMS.Repos.dll
-D:\Downloads\STMS\STMS.Repos\bin\Debug\net8.0\STMS.Repos.pdb
-D:\Downloads\STMS\STMS.Repos\bin\Debug\net8.0\STMS.Data.dll
-D:\Downloads\STMS\STMS.Repos\bin\Debug\net8.0\STMS.Entities.dll
-D:\Downloads\STMS\STMS.Repos\bin\Debug\net8.0\STMS.Models.dll
-D:\Downloads\STMS\STMS.Repos\bin\Debug\net8.0\STMS.Shared.dll
-D:\Downloads\STMS\STMS.Repos\bin\Debug\net8.0\STMS.Data.pdb
-D:\Downloads\STMS\STMS.Repos\bin\Debug\net8.0\STMS.Entities.pdb
-D:\Downloads\STMS\STMS.Repos\bin\Debug\net8.0\STMS.Models.pdb
-D:\Downloads\STMS\STMS.Repos\bin\Debug\net8.0\STMS.Shared.pdb
-D:\Downloads\STMS\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.AssemblyReference.cache
-D:\Downloads\STMS\STMS.Repos\obj\Debug\net8.0\STMS.Repos.GeneratedMSBuildEditorConfig.editorconfig
-D:\Downloads\STMS\STMS.Repos\obj\Debug\net8.0\STMS.Repos.AssemblyInfoInputs.cache
-D:\Downloads\STMS\STMS.Repos\obj\Debug\net8.0\STMS.Repos.AssemblyInfo.cs
-D:\Downloads\STMS\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.CoreCompileInputs.cache
-D:\Downloads\STMS\STMS.Repos\obj\Debug\net8.0\STMS.Repos.sourcelink.json
-D:\Downloads\STMS\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.Up2Date
-D:\Downloads\STMS\STMS.Repos\obj\Debug\net8.0\STMS.Repos.dll
-D:\Downloads\STMS\STMS.Repos\obj\Debug\net8.0\refint\STMS.Repos.dll
-D:\Downloads\STMS\STMS.Repos\obj\Debug\net8.0\STMS.Repos.pdb
-D:\Downloads\STMS\STMS.Repos\obj\Debug\net8.0\ref\STMS.Repos.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\obj\Debug\net8.0\STMS.Repos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\obj\Debug\net8.0\STMS.Repos.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\obj\Debug\net8.0\STMS.Repos.AssemblyInfo.cs
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\obj\Debug\net8.0\STMS.Repos.sourcelink.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\obj\Debug\net8.0\STMS.Repos.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\obj\Debug\net8.0\refint\STMS.Repos.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\obj\Debug\net8.0\STMS.Repos.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\bin\Debug\net8.0\STMS.Repos.deps.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\bin\Debug\net8.0\STMS.Repos.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\bin\Debug\net8.0\STMS.Repos.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\bin\Debug\net8.0\STMS.Data.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\bin\Debug\net8.0\STMS.DTOs.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\bin\Debug\net8.0\STMS.Entities.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\bin\Debug\net8.0\STMS.Models.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\bin\Debug\net8.0\STMS.Shared.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\bin\Debug\net8.0\STMS.Data.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\bin\Debug\net8.0\STMS.DTOs.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\bin\Debug\net8.0\STMS.Entities.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\bin\Debug\net8.0\STMS.Models.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\bin\Debug\net8.0\STMS.Shared.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.Up2Date
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Repos\obj\Debug\net8.0\ref\STMS.Repos.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\bin\Debug\net8.0\STMS.Repos.deps.json
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\bin\Debug\net8.0\STMS.Repos.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\bin\Debug\net8.0\STMS.Repos.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\bin\Debug\net8.0\STMS.Data.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\bin\Debug\net8.0\STMS.DTOs.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\bin\Debug\net8.0\STMS.Entities.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\bin\Debug\net8.0\STMS.Models.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\bin\Debug\net8.0\STMS.Shared.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\bin\Debug\net8.0\STMS.Data.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\bin\Debug\net8.0\STMS.DTOs.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\bin\Debug\net8.0\STMS.Entities.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\bin\Debug\net8.0\STMS.Models.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\bin\Debug\net8.0\STMS.Shared.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\obj\Debug\net8.0\STMS.Repos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\obj\Debug\net8.0\STMS.Repos.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\obj\Debug\net8.0\STMS.Repos.AssemblyInfo.cs
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\obj\Debug\net8.0\STMS.Repos.sourcelink.json
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.Up2Date
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\obj\Debug\net8.0\STMS.Repos.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\obj\Debug\net8.0\refint\STMS.Repos.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\obj\Debug\net8.0\STMS.Repos.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Repos\obj\Debug\net8.0\ref\STMS.Repos.dll
-D:\Downloads\STMS\STMS.Repos\bin\Debug\net8.0\STMS.DTOs.dll
-D:\Downloads\STMS\STMS.Repos\bin\Debug\net8.0\STMS.DTOs.pdb
+D:\Downloads\STMS_WithAPI\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.AssemblyReference.cache
+D:\Downloads\STMS_WithAPI\STMS.Repos\obj\Debug\net8.0\STMS.Repos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\STMS_WithAPI\STMS.Repos\obj\Debug\net8.0\STMS.Repos.AssemblyInfoInputs.cache
+D:\Downloads\STMS_WithAPI\STMS.Repos\obj\Debug\net8.0\STMS.Repos.AssemblyInfo.cs
+D:\Downloads\STMS_WithAPI\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.CoreCompileInputs.cache
+D:\Downloads\STMS_WithAPI\STMS.Repos\bin\Debug\net8.0\STMS.Repos.deps.json
+D:\Downloads\STMS_WithAPI\STMS.Repos\bin\Debug\net8.0\STMS.Repos.dll
+D:\Downloads\STMS_WithAPI\STMS.Repos\bin\Debug\net8.0\STMS.Repos.pdb
+D:\Downloads\STMS_WithAPI\STMS.Repos\bin\Debug\net8.0\STMS.Data.dll
+D:\Downloads\STMS_WithAPI\STMS.Repos\bin\Debug\net8.0\STMS.DTOs.dll
+D:\Downloads\STMS_WithAPI\STMS.Repos\bin\Debug\net8.0\STMS.Entities.dll
+D:\Downloads\STMS_WithAPI\STMS.Repos\bin\Debug\net8.0\STMS.Models.dll
+D:\Downloads\STMS_WithAPI\STMS.Repos\bin\Debug\net8.0\STMS.Shared.dll
+D:\Downloads\STMS_WithAPI\STMS.Repos\bin\Debug\net8.0\STMS.Data.pdb
+D:\Downloads\STMS_WithAPI\STMS.Repos\bin\Debug\net8.0\STMS.DTOs.pdb
+D:\Downloads\STMS_WithAPI\STMS.Repos\bin\Debug\net8.0\STMS.Entities.pdb
+D:\Downloads\STMS_WithAPI\STMS.Repos\bin\Debug\net8.0\STMS.Models.pdb
+D:\Downloads\STMS_WithAPI\STMS.Repos\bin\Debug\net8.0\STMS.Shared.pdb
+D:\Downloads\STMS_WithAPI\STMS.Repos\obj\Debug\net8.0\STMS.Repos.csproj.Up2Date
+D:\Downloads\STMS_WithAPI\STMS.Repos\obj\Debug\net8.0\STMS.Repos.dll
+D:\Downloads\STMS_WithAPI\STMS.Repos\obj\Debug\net8.0\refint\STMS.Repos.dll
+D:\Downloads\STMS_WithAPI\STMS.Repos\obj\Debug\net8.0\STMS.Repos.pdb
+D:\Downloads\STMS_WithAPI\STMS.Repos\obj\Debug\net8.0\ref\STMS.Repos.dll

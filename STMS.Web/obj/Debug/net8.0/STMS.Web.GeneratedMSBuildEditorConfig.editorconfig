@@ -108,6 +108,30 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Downloads/STMS/STMS.Web/Views/Viewer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/STMS/STMS.Web/Views/Viewer/PostForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld2VyXFBvc3RGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/STMS/STMS.Web/Views/Viewer/Posts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld2VyXFBvc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/STMS/STMS.Web/Views/Viewer/Reports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld2VyXFJlcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/STMS/STMS.Web/Views/Viewer/TaskDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld2VyXFRhc2tEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/STMS/STMS.Web/Views/Viewer/Tasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld2VyXFRhc2tzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Downloads/STMS/STMS.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

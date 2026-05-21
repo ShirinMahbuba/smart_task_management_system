@@ -1,164 +1,172 @@
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\appsettings.Development.json
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\appsettings.json
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Web.staticwebassets.endpoints.json
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Web.exe
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Web.deps.json
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Web.runtimeconfig.json
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Web.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Web.pdb
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Azure.Core.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Azure.Identity.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Humanizer.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.ClientModel.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.CodeDom.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.Composition.Convention.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.Drawing.Common.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.Memory.Data.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.Security.Permissions.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Data.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Entities.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Models.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Repos.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Shared.dll
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Data.pdb
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Entities.pdb
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Models.pdb
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Repos.pdb
-D:\Downloads\STMS_Patched\STMS.Web\bin\Debug\net8.0\STMS.Shared.pdb
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\STMS.Web.csproj.AssemblyReference.cache
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\rpswa.dswa.cache.json
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\STMS.Web.GeneratedMSBuildEditorConfig.editorconfig
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\STMS.Web.AssemblyInfoInputs.cache
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\STMS.Web.AssemblyInfo.cs
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\STMS.Web.csproj.CoreCompileInputs.cache
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\STMS.Web.MvcApplicationPartsAssemblyInfo.cache
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\STMS.Web.RazorAssemblyInfo.cache
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\STMS.Web.RazorAssemblyInfo.cs
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\scopedcss\bundle\STMS.Web.styles.css
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\staticwebassets.build.json
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\staticwebassets.development.json
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\STMS.Web.csproj.Up2Date
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\STMS.Web.dll
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\refint\STMS.Web.dll
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\STMS.Web.pdb
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\STMS.Web.genruntimeconfig.cache
-D:\Downloads\STMS_Patched\STMS.Web\obj\Debug\net8.0\ref\STMS.Web.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\STMS.Web.csproj.AssemblyReference.cache
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\STMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\STMS.Web.AssemblyInfoInputs.cache
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\STMS.Web.AssemblyInfo.cs
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\STMS.Web.csproj.CoreCompileInputs.cache
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\STMS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\STMS.Web.RazorAssemblyInfo.cache
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\STMS.Web.RazorAssemblyInfo.cs
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\appsettings.json
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Web.staticwebassets.runtime.json
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Web.staticwebassets.endpoints.json
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Web.exe
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Web.deps.json
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Web.runtimeconfig.json
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Web.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Web.pdb
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\AutoMapper.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Azure.Core.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Azure.Identity.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Humanizer.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.ClientModel.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.CodeDom.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Data.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.DTOs.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Entities.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Models.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Repos.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Shared.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Data.pdb
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.DTOs.pdb
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Entities.pdb
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Models.pdb
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Repos.pdb
+D:\Downloads\STMS_WithAPI\STMS.Web\bin\Debug\net8.0\STMS.Shared.pdb
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\scopedcss\bundle\STMS.Web.styles.css
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\STMS.Web.csproj.Up2Date
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\STMS.Web.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\refint\STMS.Web.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\STMS.Web.pdb
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\STMS.Web.genruntimeconfig.cache
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\ref\STMS.Web.dll
+D:\Downloads\STMS_WithAPI\STMS.Web\obj\Debug\net8.0\swae.build.ex.cache
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\appsettings.Development.json
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\appsettings.json
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Web.staticwebassets.runtime.json
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Web.staticwebassets.endpoints.json
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Web.exe
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Web.deps.json
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Web.runtimeconfig.json
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Web.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Web.pdb
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\AutoMapper.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Azure.Core.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Azure.Identity.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Humanizer.dll
@@ -180,6 +188,7 @@ D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -188,9 +197,13 @@ D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\System.ClientModel.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\System.CodeDom.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
@@ -199,6 +212,7 @@ D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\System.Drawing.Common.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\System.Memory.Data.dll
@@ -271,11 +285,13 @@ D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runti
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Data.dll
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.DTOs.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Entities.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Models.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Repos.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Shared.dll
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Data.pdb
+D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.DTOs.pdb
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Entities.pdb
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Models.pdb
 D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Repos.pdb
@@ -286,6 +302,7 @@ D:\Downloads\STMS\STMS.Web\obj\Debug\net8.0\STMS.Web.GeneratedMSBuildEditorConfi
 D:\Downloads\STMS\STMS.Web\obj\Debug\net8.0\STMS.Web.AssemblyInfoInputs.cache
 D:\Downloads\STMS\STMS.Web\obj\Debug\net8.0\STMS.Web.AssemblyInfo.cs
 D:\Downloads\STMS\STMS.Web\obj\Debug\net8.0\STMS.Web.csproj.CoreCompileInputs.cache
+D:\Downloads\STMS\STMS.Web\obj\Debug\net8.0\STMS.Web.MvcApplicationPartsAssemblyInfo.cs
 D:\Downloads\STMS\STMS.Web\obj\Debug\net8.0\STMS.Web.MvcApplicationPartsAssemblyInfo.cache
 D:\Downloads\STMS\STMS.Web\obj\Debug\net8.0\STMS.Web.RazorAssemblyInfo.cache
 D:\Downloads\STMS\STMS.Web\obj\Debug\net8.0\STMS.Web.RazorAssemblyInfo.cs
@@ -305,326 +322,3 @@ D:\Downloads\STMS\STMS.Web\obj\Debug\net8.0\refint\STMS.Web.dll
 D:\Downloads\STMS\STMS.Web\obj\Debug\net8.0\STMS.Web.pdb
 D:\Downloads\STMS\STMS.Web\obj\Debug\net8.0\STMS.Web.genruntimeconfig.cache
 D:\Downloads\STMS\STMS.Web\obj\Debug\net8.0\ref\STMS.Web.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\STMS.Web.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\STMS.Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\STMS.Web.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\STMS.Web.AssemblyInfo.cs
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\STMS.Web.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\STMS.Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\STMS.Web.RazorAssemblyInfo.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\STMS.Web.RazorAssemblyInfo.cs
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\STMS.Web.sourcelink.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\STMS.Web.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\refint\STMS.Web.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\STMS.Web.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\appsettings.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Web.staticwebassets.endpoints.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Web.exe
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Web.deps.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Web.runtimeconfig.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Web.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Web.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Humanizer.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.ClientModel.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.CodeDom.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Data.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.DTOs.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Entities.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Models.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Repos.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Shared.dll
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Data.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.DTOs.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Entities.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Models.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Repos.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\bin\Debug\net8.0\STMS.Shared.pdb
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\scopedcss\bundle\STMS.Web.styles.css
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\STMS.Web.csproj.Up2Date
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\STMS.Web.genruntimeconfig.cache
-C:\Users\user\Desktop\New folder\smart_task_management_system\STMS.Web\obj\Debug\net8.0\ref\STMS.Web.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\appsettings.json
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Web.staticwebassets.endpoints.json
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Web.exe
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Web.deps.json
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Web.runtimeconfig.json
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Web.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Web.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Humanizer.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.ClientModel.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.CodeDom.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Data.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.DTOs.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Entities.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Models.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Repos.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Shared.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Data.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.DTOs.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Entities.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Models.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Repos.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Shared.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.AssemblyInfo.cs
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.RazorAssemblyInfo.cache
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.RazorAssemblyInfo.cs
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.sourcelink.json
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\scopedcss\bundle\STMS.Web.styles.css
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.csproj.Up2Date
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\refint\STMS.Web.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.pdb
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\STMS.Web.genruntimeconfig.cache
-C:\Users\user\Desktop\New folder\ok\STMS.Web\obj\Debug\net8.0\ref\STMS.Web.dll
-C:\Users\user\Desktop\New folder\ok\STMS.Web\bin\Debug\net8.0\STMS.Web.staticwebassets.runtime.json
-D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.Web.staticwebassets.runtime.json
-D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\AutoMapper.dll
-D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.DTOs.dll
-D:\Downloads\STMS\STMS.Web\bin\Debug\net8.0\STMS.DTOs.pdb
